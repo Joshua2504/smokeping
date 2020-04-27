@@ -1,0 +1,20 @@
+*** Probes ***
+
++ FPing
+binary = /usr/sbin/fping
+
+++ FPing300
+step = 300
+pings = 20
+
+++ FPing60
+step = 60
+pings = 15
+
+++ FPing30
+step = 30
+pings = 10
+
+++ FPing10
+step = 10
+pings = 3
