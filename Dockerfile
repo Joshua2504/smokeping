@@ -1,4 +1,4 @@
-FROM lsiobase/alpine:latest
+FROM lsiobase/alpine:3.6
 MAINTAINER LinuxServer.io <ironicbadger@linuxserver.io>, sparklyballs
 
 # set version label
