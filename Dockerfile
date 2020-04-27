@@ -24,7 +24,7 @@ RUN \
  sed -i 's#src="/cropper/#/src="cropper/#' /etc/smokeping/basepage.html
 
 # add local files
-COPY root/ /
+#COPY root/ /
 
 # ports and volumes
 EXPOSE 80
