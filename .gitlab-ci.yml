@@ -1,0 +1,33 @@
+image: docker:latest
+
+services:
+  - docker:latest
+
+variables:
+  CI_REGISTRY: git.treudler.net:81/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME
+
+stages:
+  - build
+  - cleanup
+
+before_script:
+  - date
+  - docker info
+  - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+
+after_script:
+  - docker image inspect $CI_REGISTRY/$CI_JOB_NAME:latest | grep "Size" || true
+  - rm /root/.docker/config.json
+
+cor-forum-php:
+  stage: build
+  script:
+    - docker build --pull --no-cache -t $CI_REGISTRY/$CI_PROJECT_NAME:$CI_COMMIT_REF_NAME-${CI_COMMIT_SHA:0:8}-$CI_PIPELINE_ID -t $CI_REGISTRY/$CI_PROJECT_NAME:latest -f Dockerfile .
+    - docker push $CI_REGISTRY/$CI_PROJECT_NAME:latest
+
+cleanup:
+  stage: cleanup
+  script:
+    - docker rmi $CI_REGISTRY:$CI_JOB_NAME:latest
+    - rm /root/.docker/config.json
+  when: on_failure
