@@ -1,6 +1,9 @@
 # docker-compose for smokeping
 
+References:
 
+- https://hub.docker.com/r/linuxserver/smokeping
+- https://oss.oetiker.ch/smokeping/doc
 
 ## Troubleshooting
 
