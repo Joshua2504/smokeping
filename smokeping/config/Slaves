@@ -1,7 +1,7 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
-+google-ams
-display_name=Google AMS
++web
+display_name=Google Cloud AMS
 color=0000ff
 
 #+slave2
