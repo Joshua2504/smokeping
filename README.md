@@ -1,4 +1,5 @@
-# docker-compose for smokeping
+# docker-compose for smokeping (master)
+for slave setup, refer to https://git.treudler.net/joshua2504/smokeping-slave
 
 References:
 
