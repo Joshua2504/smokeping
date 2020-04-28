@@ -36,6 +36,12 @@ menu = knight-FPing4
 title = knight FPing4
 host = home.tobiassachs.de
 
+++ knight
+probe = FPing10
+menu = amir
+title = amir (egypt)
+host = amirgt.ddns.net
+
 + OVH
 
 ++ sbg
