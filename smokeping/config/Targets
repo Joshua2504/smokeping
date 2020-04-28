@@ -111,6 +111,17 @@ menu = CernIXP
 title = Cern Internet eXchange Point
 host = cixp.web.cern.ch
 
+++ Netherlands
+
+menu = Netherlands
+title = Netherlands
+
++++ liteserver
+
+menu = Liteserver.nl
+title = Liteserver.nl
+host = liteserver.nl
+
 +++ SBB
 
 menu = SBB
