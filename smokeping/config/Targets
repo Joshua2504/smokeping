@@ -117,10 +117,16 @@ menu = Netherlands
 title = Netherlands
 
 +++ liteserver
-
+probe = FPing60
 menu = Liteserver.nl
 title = Liteserver.nl
 host = liteserver.nl
+
++++ liteserver-via-ip
+probe = FPing60
+menu = Liteserver.nl 5.2.70.47
+title = Liteserver.nl 5.2.70.47
+host = 5.2.70.47
 
 +++ SBB
 
