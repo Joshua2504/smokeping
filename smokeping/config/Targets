@@ -16,6 +16,7 @@ probe = FPing10
 menu = kleinerhai-Shadow
 title = kleinerhai Shadow
 host = 85.190.88.243
+slaves = smokeping-google-ams
 
 ++ kleinerhai-Shadow-FPing4
 probe = FPing4
