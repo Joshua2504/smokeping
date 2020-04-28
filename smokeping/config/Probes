@@ -7,6 +7,10 @@ binary = /usr/sbin/fping
 step = 300
 pings = 20
 
+++ FPing120
+step = 120
+pings = 20
+
 ++ FPing60
 step = 60
 pings = 15
@@ -17,4 +21,8 @@ pings = 10
 
 ++ FPing10
 step = 10
+pings = 3
+
+++ FPing4
+step = 4
 pings = 3

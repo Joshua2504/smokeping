@@ -1,8 +1,8 @@
 *** Slaves ***
-secrets=/etc/smokeping/smokeping_secrets
-#+boomer
-#display_name=boomer
-#color=0000ff
+secrets=/config/smokeping_secrets
++google-ams
+display_name=Google AMS
+color=0000ff
 
 #+slave2
 #display_name=another
