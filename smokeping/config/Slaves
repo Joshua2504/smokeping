@@ -1,6 +1,6 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
-+web
++smokeping-google-ams
 display_name=Google Cloud AMS
 color=0000ff
 
