@@ -211,7 +211,7 @@ host = 1.0.0.1
 + OVH
 menu = OVH SAS
 title = OVH SAS
-Probe = FPing120
+probe = FPing120
 
 ++ ping-ovh-net
 menu = ping.ovh.net
