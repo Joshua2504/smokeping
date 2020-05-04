@@ -7,6 +7,26 @@ title = Network Latency Grapher
 remark = Welcome to the SmokePing Network Latency Grapher. \
          Here you will learn all about the latency of our network.
 
++ Internal
+
+++ magicmirror
+probe = FPing10
+host = 192.168.178.30
+
+++ echo-1
+menu = echo kitchen
+title = echo kitchen
+probe = FPing10
+host = 192.168.178.27
+
+++ wifi-bridge-sender
+probe = FPing10
+host = 192.168.178.5
+
+++ wifi-bridge-receiver
+probe = FPing10
+host = 192.168.178.6
+
 + Private
 menu = Private Connections
 title = Private Internet Connections
