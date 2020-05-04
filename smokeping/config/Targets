@@ -29,6 +29,13 @@ title = wifi-bridge-sender
 probe = FPing10
 host = 192.168.178.5
 
+++ wifi-bridge-sender-traceroute
+menu = wifi-bridge-sender-traceroute
+title = wifi-bridge-sender-traceroute
+probe = TraceroutePing
+desthost = wifi-bridge-sender-traceroute
+host = 192.168.178.5
+
 ++ wifi-bridge-receiver
 menu = wifi-bridge-receiver
 title = wifi-bridge-receiver
