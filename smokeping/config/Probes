@@ -26,3 +26,19 @@ pings = 3
 ++ FPing4
 step = 4
 pings = 3
+
++TraceroutePing
+binary = /usr/bin/traceroute
+# binaryv6 = /usr/bin/traceroute6
+forks = 5
+offset = 50%
+step = 300
+timeout = 15
+
+# The following variables can be overridden in each target section
+# desthost = www.example.com # mandatory
+# host = 192.168.178.204 # mandatory
+maxttl = 15
+minttl = 11
+pings = 5
+wait = 3
