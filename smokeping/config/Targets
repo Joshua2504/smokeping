@@ -219,3 +219,68 @@ host = 1.1.1.1
 menu = Cloudflare DNS 2
 title = Cloudflare DNS 1.0.0.1
 host = 1.0.0.1
+
++ OVH
+menu = OVH SAS
+title = OVH SAS
+Probe = FPing120
+
+++ ping-ovh-net
+menu = ping.ovh.net
+title = ping.ovh.net
+host = ping.ovh.net
+
+++ bhs-lg-ovh-net
+menu = bhs.lg.ovh.net
+title = bhs.lg.ovh.net
+host = 158.69.65.31
+
+++ de1-lg-ovh-net
+menu = de1.lg.ovh.net
+title = de1.lg.ovh.net
+host = de1.lg.ovh.net
+
+++ gra-lg-ovh-net
+menu = gra.lg.ovh.net
+title = gra.lg.ovh.net
+host = gra.lg.ovh.net
+
+++ rbx-lg-ovh-net
+menu = rbx.lg.ovh.net
+title = rbx.lg.ovh.net
+host = rbx.lg.ovh.net
+
+++ sbg-lg-ovh-net
+menu = sbg.lg.ovh.net
+title = sbg.lg.ovh.net
+host = sbg.lg.ovh.net
+
+++ sin1-lg-ovh-net
+menu = sin1.lg.ovh.net
+title = sin1.lg.ovh.net
+host = sin1.lg.ovh.net
+
+++ syd1-lg-ovh-net
+menu = syd1.lg.ovh.net
+title = syd1.lg.ovh.net
+host = syd1.lg.ovh.net
+
+++ uk1-lg-ovh-net
+menu = uk1.lg.ovh.net
+title = uk1.lg.ovh.net
+host = uk1.lg.ovh.net
+
+++ us1-lg-ovh-net
+menu = us1.lg.ovh.net
+title = us1.lg.ovh.net
+host = us1.lg.ovh.net
+
+++ us2-lg-ovh-net
+menu = us2.lg.ovh.net
+title = us2.lg.ovh.net
+host = us2.lg.ovh.net
+
+++ waw-lg-ovh-net
+menu = waw.lg.ovh.net
+title = waw.lg.ovh.net
+host = waw.lg.ovh.net
