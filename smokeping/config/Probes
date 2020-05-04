@@ -6,26 +6,32 @@ binary = /usr/sbin/fping
 ++ FPing300
 step = 300
 pings = 20
+timeout = 10
 
 ++ FPing120
 step = 120
 pings = 20
+timeout = 10
 
 ++ FPing60
 step = 60
 pings = 15
+timeout = 10
 
 ++ FPing30
 step = 30
 pings = 10
+timeout = 10
 
 ++ FPing10
 step = 10
 pings = 3
+timeout = 3
 
 ++ FPing4
 step = 4
 pings = 3
+timeout = 2
 
 +TraceroutePing
 binary = /usr/bin/traceroute
