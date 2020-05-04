@@ -70,6 +70,31 @@ menu = amir
 title = amir (egypt)
 host = amirgt.ddns.net
 
++ 3rd-party-Servers
+menu = 3rd Party Servers
+title = 3rd Party Servers
+
+++ amir-de-contabo
+probe = FPing120
+menu = Amir DE Contabo (München)
+title = Amir DE Contabo (München)
+host = de.amir.ovh
+slaves = smokeping-google-ams
+
+++ amir-de-interwerk
+probe = FPing120
+menu = Amir DE iNTERWERK (Frankfurt)
+title = Amir DE iNTERWERK (Frankfurt)
+host = de2.amir.ovh
+slaves = smokeping-google-ams
+
+++ knight-de-ovh
+probe = FPing120
+menu = Knight DE OVH (Limburg)
+title = Knight DE OVH (Limburg)
+host = tobiassachs.de
+slaves = smokeping-google-ams
+
 + InternetSites
 
 menu = Internet Sites
