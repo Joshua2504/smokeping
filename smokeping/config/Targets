@@ -42,18 +42,6 @@ menu = amir
 title = amir (egypt)
 host = amirgt.ddns.net
 
-+ OVH
-
-++ sbg
-menu = Strasbourg
-title = sbg.proof.ovh.net
-host = sbg.proof.ovh.net
-
-++ rbx
-menu = Roubaix
-title = rbx.proof.ovh.net
-host = rbx.proof.ovh.net
-
 + InternetSites
 
 menu = Internet Sites
