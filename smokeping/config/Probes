@@ -55,31 +55,31 @@ agent = User-Agent: treudler.net/smokeping Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM
 offset = 50%
 urlformat = http://%host%/ # mandatory
 
-+Curl300
+++Curl300
 forks = 20
 step = 300
 pings = 5
 timeout = 20
 
-+Curl120
+++Curl120
 forks = 20
 step = 120
 pings = 5
 timeout = 20
 
-+Curl60
+++Curl60
 forks = 20
 step = 120
 pings = 5
 timeout = 60
 
-+Curl10
+++Curl10
 forks = 20
 step = 120
 pings = 3
 timeout = 3
 
-+Curl5
+++Curl5
 forks = 10
 step = 3
 pings = 1
