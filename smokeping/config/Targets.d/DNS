@@ -33,6 +33,10 @@ menu = Cloudflare DNS 2
 title = Cloudflare DNS 1.0.0.1
 host = 1.0.0.1
 
+++ Vodafonedns1
+menu = Vodafonedns1
+host = 88.134.228.161
 
-host = 88.134.228.162
+++ Vodafonedns2
+menu = Vodafonedns2
 host = 88.134.228.225
