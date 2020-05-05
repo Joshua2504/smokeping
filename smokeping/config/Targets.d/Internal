@@ -1,0 +1,27 @@
++ Internal
+menu = Internal Connections
+title = Internal Connections at Home
+
+++ magicmirror
+menu = lan-magicmirror
+title = lan-magicmirror
+probe = FPing10
+host = 192.168.178.30
+
+++ echo-1
+menu = echo kitchen
+title = echo kitchen
+probe = FPing10
+host = 192.168.178.27
+
+++ wifi-bridge-sender
+menu = wifi-bridge-sender
+title = wifi-bridge-sender
+probe = FPing10
+host = 192.168.178.5
+
+++ wifi-bridge-receiver
+menu = wifi-bridge-receiver
+title = wifi-bridge-receiver
+probe = FPing10
+host = 192.168.178.6
