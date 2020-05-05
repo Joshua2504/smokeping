@@ -4,8 +4,8 @@ probe = FPing300
 
 menu = Top
 title = Network Latency Grapher
-remark = Welcome to the SmokePing Network Latency Grapher. \
-         Here you will learn all about the latency of our network.
+remark = Welcome to my SmokePing Network Latency Grapher. \
+         Here you will learn all about the latency of my network.
 
 + Internal
 menu = Internal Connections
@@ -268,24 +268,6 @@ menu = Cloudflare DNS 2
 title = Cloudflare DNS 1.0.0.1
 host = 1.0.0.1
 
-+ Hetzner
-menu = Hetzner Online GmbH
-title = Hetzner Online GmbH
-probe = FPing120
-
-++ hetzner-fsn
-menu = DE Falkenstein
-title = DE Falkenstein
-host = fsn.icmp.hetzner.com
-
-++ hetzner-nbg
-menu = DE Nürnberg
-title = DE Nürnberg
-host = nbg.icmp.hetzner.com
-
-++ hetzner-hel
-menu = FI Helsinki
-title = FI Helsinki
-host = hel.icmp.hetzner.com
-
+@include Targets.d/Hetzner
 @include Targets.d/OVH
+@include Targets.d/google

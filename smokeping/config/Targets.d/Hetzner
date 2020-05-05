@@ -1,0 +1,24 @@
++ Hetzner
+menu = Hetzner Online GmbH
+title = Hetzner Online GmbH
+probe = FPing120
+
+++ Aggregated
+menu = Hetzner Aggregated
+title = Hetzner Aggregated
+host = /Hetzner/hetzner-fsn /Hetzner/hetzner-nbg /Hetzner/hetzner-hel 
+
+++ hetzner-fsn
+menu = DE Falkenstein
+title = DE Falkenstein
+host = fsn.icmp.hetzner.com
+
+++ hetzner-nbg
+menu = DE Nürnberg
+title = DE Nürnberg
+host = nbg.icmp.hetzner.com
+
+++ hetzner-hel
+menu = FI Helsinki
+title = FI Helsinki
+host = hel.icmp.hetzner.com
