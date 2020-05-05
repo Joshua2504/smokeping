@@ -45,8 +45,11 @@ height = 200
 unison_tolerance = 2
 
 "Last 10 Minutes"    10m
+"Last 30 Minutes"   30m
 "Last 1 Hour"   1h
+"Last 12 Hours"   12h
 "Last 24 Hours"    1d
+"Last 7 Days"    7d
 "Last 360 Days"   360d
 
 #+ hierarchies
