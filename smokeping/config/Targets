@@ -97,10 +97,74 @@ title = Knight DE OVH (Limburg)
 host = tobiassachs.de
 slaves = smokeping-google-ams
 
-+ InternetSites
++++ pilovali-nl-liteserver
+probe = FPing60
+menu = Pilovali NL Liteserver
+title = Pilovali NL Liteserver 5.2.70.47
+host = 5.2.70.47
 
+
++ InternetSites
 menu = Internet Sites
 title = Internet Sites
+probe = Curl300
+
+++ cor-forum
+menu = CoR Forum
+title = CoR Forum
+host = www.cor-forum.de
+probe = Curl10
+
+++ Germany
+menu = Germans
+title = Germans
+
++++ VodafoneDE
+menu = Vodafone DE
+title = Vodafone DE
+host = www.vodafone.de
+
++++ TelefonicaDE
+menu = Telefonica DE
+title = Telefonica DE
+host = www.telefonica.de
+
+++ Switzerland
+menu = Switzerland
+title = Switzerland
+
++++ SBB
+menu = SBB
+title = SBB
+host = www.sbb.ch/en
+
+++ UK
+menu = United Kingdom
+title = United Kingdom
+
++++ CambridgeUni
+menu = Cambridge
+title = Cambridge
+host = cam.ac.uk
+
++++ UEA
+menu = UEA
+title = UEA
+host = www.uea.ac.uk
+
+++ USA
+menu = USA
+title = USA
+
++++ JupiterBroadcasting
+menu = JupiterBroadcasting
+title = JupiterBroadcasting
+host = jupiterbroadcasting.com
+
++++ Sun
+menu = Sun Microsystems
+title = Sun Microsystems Webserver
+host = www.oracle.com/sun
 
 ++ Facebook
 menu = Facebook
@@ -112,158 +176,68 @@ menu = YouTube
 title = YouTube
 host = youtube.com
 
-++ JupiterBroadcasting
-menu = JupiterBroadcasting
-title = JupiterBroadcasting
-host = jupiterbroadcasting.com
-
 ++ GoogleSearch
 menu = Google
-title = google.com
-host = google.com
-
-++ linuxserverio
-menu = linuxserver.io
-title = linuxserver.io
-host = linuxserver.io
+title = google.de
+host = google.de
 
 + Europe
-
 menu = Europe
 title = European Connectivity
 
 ++ Germany
-
 menu = Germany
-title = The Fatherland
-
-+++ TelefonicaDE
-
-menu = Telefonica DE
-title = Telefonica DE
-host = www.telefonica.de
+title = Germany
 
 ++ Switzerland
-
 menu = Switzerland
 title = Switzerland
 
 +++ CernIXP
-
 menu = CernIXP
 title = Cern Internet eXchange Point
 host = cixp.web.cern.ch
 
 ++ Netherlands
-
 menu = Netherlands
 title = Netherlands
 
 +++ liteserver
-probe = FPing60
 menu = Liteserver.nl
 title = Liteserver.nl
 host = liteserver.nl
 
-+++ liteserver-pilovali
-probe = FPing60
-menu = Liteserver.nl Pilovali 5.2.70.47
-title = Liteserver.nl Pilovali 5.2.70.47
-host = 5.2.70.47
-
-+++ SBB
-
-menu = SBB
-title = SBB
-host = www.sbb.ch/en
-
-++ UK
-
-menu = United Kingdom
-title = United Kingdom
-
-+++ CambridgeUni
-
-menu = Cambridge
-title = Cambridge
-host = cam.ac.uk
-
-+++ UEA
-
-menu = UEA
-title = UEA
-host = www.uea.ac.uk
-
-+ USA
+++ USA
 
 menu = North America
-title =North American Connectivity
+title = North American Connectivity
 
-++ MIT
++++ MIT
 
 menu = MIT
 title = Massachusetts Institute of Technology Webserver
 host = web.mit.edu
 
-++ IU
++++ IU
 
 menu = IU
 title = Indiana University
 host = www.indiana.edu
 
-++ UCB
++++ UCB
 
 menu = U. C. Berkeley
 title = U. C. Berkeley Webserver
 host = www.berkley.edu
 
-++ UCSD
++++ UCSD
 
 menu = U. C. San Diego
 title = U. C. San Diego Webserver
 host = www.ucsd.edu
 
-++ Sun
 
-menu = Sun Microsystems
-title = Sun Microsystems Webserver
-host = www.oracle.com/us/sun
-
-+ DNS
-menu = DNS
-title = DNS
-slaves = smokeping-google-ams
-
-++ GoogleDNS1
-menu = Google DNS 1
-title = Google DNS 8.8.8.8
-host = 8.8.8.8
-
-++ GoogleDNS2
-menu = Google DNS 2
-title = Google DNS 8.8.4.4
-host = 8.8.4.4
-
-++ OpenDNS1
-menu = OpenDNS1
-title = OpenDNS1
-host = 208.67.222.222
-
-++ OpenDNS2
-menu = OpenDNS2
-title = OpenDNS2
-host = 208.67.220.220
-
-++ CloudflareDNS1
-menu = Cloudflare DNS 1
-title = Cloudflare DNS 1.1.1.1
-host = 1.1.1.1
-
-++ CloudflareDNS2
-menu = Cloudflare DNS 2
-title = Cloudflare DNS 1.0.0.1
-host = 1.0.0.1
-
+@include Targets.d/DNS
 @include Targets.d/Hetzner
 @include Targets.d/OVH
 @include Targets.d/google

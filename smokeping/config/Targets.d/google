@@ -2,6 +2,7 @@
 menu = google
 title = google
 probe = Curl120
+urlformat = http://%host%/
 
 #++ Aggregated
 #menu = google Aggregated
