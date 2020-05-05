@@ -112,8 +112,8 @@ probe = Curl300
 ++ cor-forum
 menu = CoR Forum
 title = CoR Forum
-host = www.cor-forum.de
 probe = Curl10
+host = www.cor-forum.de
 
 ++ Germany
 menu = Germans
