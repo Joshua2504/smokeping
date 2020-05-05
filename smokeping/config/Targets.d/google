@@ -1,7 +1,7 @@
 + google
 menu = google
 title = google
-probe = FPing120
+probe = Curl120
 
 #++ Aggregated
 #menu = google Aggregated
