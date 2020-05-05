@@ -8,7 +8,7 @@ probe = FPing120
 ++ Aggregated
 menu = OVH Aggregated
 title = OVH Aggregated
-host = /OVH/ping-ovh-net /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/syn1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/uk1-lg-ovh-net /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
+host = /OVH/ping-ovh-net /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/uk1-lg-ovh-net /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
 
 ++ ping-ovh-net
 menu = ping.ovh.net
