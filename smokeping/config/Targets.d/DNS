@@ -14,13 +14,13 @@ title = Google DNS 8.8.4.4
 host = 8.8.4.4
 
 ++ OpenDNS1
-menu = OpenDNS1
-title = OpenDNS1
+menu = OpenDNS 1
+title = OpenDNS 208.67.222.222
 host = 208.67.222.222
 
 ++ OpenDNS2
-menu = OpenDNS2
-title = OpenDNS2
+menu = OpenDNS 2
+title = OpenDNS 208.67.220.220
 host = 208.67.220.220
 
 ++ CloudflareDNS1
