@@ -20,14 +20,29 @@ menu = Germans
 title = Germans
 
 +++ VodafoneDE
-menu = Vodafone DE
-title = Vodafone DE
+menu = Vodafone
+title = Vodafone
 host = www.vodafone.de
 
 +++ TelefonicaDE
-menu = Telefonica DE
-title = Telefonica DE
+menu = Telefonica
+title = Telefonica
 host = www.telefonica.de
+
++++ TelekomDE
+menu = Telekom
+title = Telekom
+host = www.telekom.de/start
+
++++ MnetDE
+menu = M-net
+title = M-net
+host = www.m-net.de/privatkunden
+
++++ EWEDE
+menu = EWE
+title = EWE
+host = www.ewe.de
 
 ++ Switzerland
 menu = Switzerland
