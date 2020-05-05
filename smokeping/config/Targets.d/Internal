@@ -2,26 +2,51 @@
 menu = Internal Connections
 title = Internal Connections at Home
 
+++ cam-1
+menu = cam-1
+title = cam-1-192.168.178.201
+probe = FPing10
+host = 192.168.178.201
+
+++ cam-4
+menu = cam-4
+title = cam-4-192.168.178.204
+probe = FPing10
+host = 192.168.178.204
+
 ++ magicmirror
 menu = lan-magicmirror
-title = lan-magicmirror
+title = lan-magicmirror-192.168.178.30
 probe = FPing10
 host = 192.168.178.30
 
-++ echo-1
-menu = echo kitchen
-title = echo kitchen
-probe = FPing10
-host = 192.168.178.27
-
 ++ wifi-bridge-sender
 menu = wifi-bridge-sender
-title = wifi-bridge-sender
+title = wifi-bridge-sender-192.168.178.5
 probe = FPing10
 host = 192.168.178.5
 
 ++ wifi-bridge-receiver
 menu = wifi-bridge-receiver
-title = wifi-bridge-receiver
+title = wifi-bridge-receiver-192.168.178.6
 probe = FPing10
 host = 192.168.178.6
+
+++ pc-joshua
+menu = pc-joshua
+title = pc-joshua-192.168.178.20
+probe = FPing10
+host = 192.168.178.20
+
+++ pc-sabine
+menu = pc-sabine
+title = pc-sabine-192.168.178.23
+probe = FPing10
+host = 192.168.178.23
+
+++ pc-mario
+menu = pc-mario
+title = pc-mario-192.168.178.24
+probe = FPing10
+host = 192.168.178.24
+
