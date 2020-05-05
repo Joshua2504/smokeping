@@ -1,3 +1,5 @@
+
+
 + OVH
 menu = OVH SAS
 title = OVH SAS
@@ -11,7 +13,7 @@ host = ping.ovh.net
 ++ bhs-lg-ovh-net
 menu = bhs.lg.ovh.net
 title = bhs.lg.ovh.net
-host = 158.69.65.31
+host = bhs.lg.ovh.net
 
 ++ de1-lg-ovh-net
 menu = de1.lg.ovh.net
