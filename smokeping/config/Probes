@@ -79,10 +79,4 @@ step = 120
 pings = 3
 timeout = 3
 
-++Curl5
-forks = 10
-step = 3
-pings = 1
-timeout = 3
-
 
