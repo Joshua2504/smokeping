@@ -23,8 +23,14 @@ title = Knight DE OVH (Limburg)
 host = tobiassachs.de
 slaves = smokeping-google-ams
 
-+++ pilovali-nl-liteserver
-probe = FPing60
+++ pilovali-nl-liteserver
+probe = FPing120
 menu = Pilovali NL Liteserver
 title = Pilovali NL Liteserver 5.2.70.47
 host = 5.2.70.47
+
+++ pilovali-s1-pilovali-nl
+probe = FPing120
+menu = Pilovali s1.pilovali.nl
+title = Pilovali s1.pilovali.nl
+host = s1.pilovali.nl
