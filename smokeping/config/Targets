@@ -35,42 +35,7 @@ title = wifi-bridge-receiver
 probe = FPing10
 host = 192.168.178.6
 
-+ Private
-menu = Private Connections
-title = Private Internet Connections
 
-++ kleinerhai-Shadow
-probe = FPing10
-menu = kleinerhai-Shadow
-title = kleinerhai Shadow
-host = 85.190.88.243
-slaves = smokeping-google-ams
-
-++ kleinerhai-Shadow-FPing4
-probe = FPing4
-menu = kleinerhai-Shadow-FPing4
-title = kleinerhai Shadow each 4s
-host = 85.190.88.243
-
-++ knight
-probe = FPing10
-menu = knight
-title = knight
-host = home.tobiassachs.de
-slaves = smokeping-google-ams
-
-++ knight-FPing4
-probe = FPing4
-menu = knight-FPing4
-title = knight FPing4
-host = home.tobiassachs.de
-
-++ amir
-probe = FPing10
-menu = amir
-title = amir (egypt)
-host = amirgt.ddns.net
-slaves = smokeping-google-ams
 
 
 
