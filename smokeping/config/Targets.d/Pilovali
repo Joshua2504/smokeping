@@ -1,7 +1,7 @@
 + Pilovali
 menu = Pilovali
 title = Pilovali
-probe = FPing120
+probe = FPing300
 
 #++ Aggregated
 #menu = OVH Aggregated
@@ -9,8 +9,8 @@ probe = FPing120
 #host = /OVH/ping-ovh-net /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/#uk1-lg-ovh-net /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
 
 ++ pilo-s1
-menu = s1.pilovali.nl
-title = s1.pilovali.nl
+menu = s1.pilovali.nl (MyVirtualserver)
+title = s1.pilovali.nl (MyVirtualserver)
 host = s1.pilovali.nl
 
 ++ pilo-s2
@@ -19,29 +19,44 @@ title = s2.pilovali.nl
 host = s2.pilovali.nl
 
 ++ pilo-s3
-menu = s3.pilovali.nl
-title = s3.pilovali.nl
+menu = s3.pilovali.nl (MyVirtualserver)
+title = s3.pilovali.nl (MyVirtualserver)
 host = s3.pilovali.nl
 
 ++ pilo-s4
-menu = s4.pilovali.nl
-title = s4.pilovali.nl
+menu = s4.pilovali.nl (Asghostnet)
+title = s4.pilovali.nl (Asghostnet)
 host = s4.pilovali.nl
 
 ++ pilo-s5
-menu = s5.pilovali.nl
-title = s5.pilovali.nl
+menu = s5.pilovali.nl (Hetzner)
+title = s5.pilovali.nl (Hetzner)
 host = s5.pilovali.nl
 
 ++ pilo-s6
-menu = s6.pilovali.nl
-title = s6.pilovali.nl
+menu = s6.pilovali.nl (KPN)
+title = s6.pilovali.nl (KPN)
 host = s6.pilovali.nl
 
 ++ pilo-s7
-menu = s7.pilovali.nl
-title = s7.pilovali.nl
+menu = s7.pilovali.nl (Hetzner)
+title = s7.pilovali.nl (Hetzner)
 host = s7.pilovali.nl
+
+++ pilo-web
+menu = web.pilovali.nl
+title = web.pilovali.nl
+host = web.pilovali.nl
+
+++ pilo-web-ns1
+menu = ns1.web.pilovali.nl
+title = ns1.web.pilovali.nl
+host = ns1.web.pilovali.nl
+
+++ pilo-web-ns2
+menu = ns2.web.pilovali.nl
+title = ns2.web.pilovali.nl
+host = ns2.web.pilovali.nl
 
 ++ pilo-web02
 menu = web02.pilovali.nl
@@ -57,3 +72,13 @@ host = ns1.web02.pilovali.nl
 menu = ns2.web02.pilovali.nl
 title = ns2.web02.pilovali.nl
 host = ns2.web02.pilovali.nl
+
+++ pilo-vpn-free-gra01
+menu = gra01.fr.vpn.free.pilovali.nl (OVH)
+title = gra01.fr.vpn.free.pilovali.nl (OVH)
+host = gra01.fr.vpn.free.pilovali.nl
+
+++ pilo-vpn-free-gra02
+menu = gra02.fr.vpn.free.pilovali.nl (OVH)
+title = gra02.fr.vpn.free.pilovali.nl (OVH)
+host = gra02.fr.vpn.free.pilovali.nl
