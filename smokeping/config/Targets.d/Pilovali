@@ -1,0 +1,59 @@
++ Pilovali
+menu = Pilovali
+title = Pilovali
+probe = FPing120
+
+#++ Aggregated
+#menu = OVH Aggregated
+#title = OVH Aggregated
+#host = /OVH/ping-ovh-net /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/#uk1-lg-ovh-net /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
+
+++ pilo-s1
+menu = s1.pilovali.nl
+title = s1.pilovali.nl
+host = s1.pilovali.nl
+
+++ pilo-s2
+menu = s2.pilovali.nl
+title = s2.pilovali.nl
+host = s2.pilovali.nl
+
+++ pilo-s3
+menu = s3.pilovali.nl
+title = s3.pilovali.nl
+host = s3.pilovali.nl
+
+++ pilo-s4
+menu = s4.pilovali.nl
+title = s4.pilovali.nl
+host = s4.pilovali.nl
+
+++ pilo-s5
+menu = s5.pilovali.nl
+title = s5.pilovali.nl
+host = s5.pilovali.nl
+
+++ pilo-s6
+menu = s6.pilovali.nl
+title = s6.pilovali.nl
+host = s6.pilovali.nl
+
+++ pilo-s7
+menu = s7.pilovali.nl
+title = s7.pilovali.nl
+host = s7.pilovali.nl
+
+++ pilo-web02
+menu = web02.pilovali.nl
+title = web02.pilovali.nl
+host = web02.pilovali.nl
+
+++ pilo-web02-ns1
+menu = ns1.web02.pilovali.nl
+title = ns1.web02.pilovali.nl
+host = ns1.web02.pilovali.nl
+
+++ pilo-web02-ns2
+menu = ns2.web02.pilovali.nl
+title = ns2.web02.pilovali.nl
+host = ns2.web02.pilovali.nl
