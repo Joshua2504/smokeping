@@ -4,7 +4,7 @@ services:
   smokeping:
     image: linuxserver/smokeping
     container_name: smokeping
-    hostname: treudler-home
+    hostname: Bremerhaven
     environment:
       - PUID=1000
       - PGID=1000

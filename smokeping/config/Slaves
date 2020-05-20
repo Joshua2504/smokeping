@@ -1,10 +1,10 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
+
 +smokeping-google-ams
-display_name=Google Cloud AMS
+display_name=Google Cloud Amsterdam
 color=0000ff
 
-#+slave2
-#display_name=another
-#color=00ff00
-
++smokeping-hetzner-fsn
+display_name=Hetzner Falkenstein
+color=00ff00

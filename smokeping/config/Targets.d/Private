@@ -2,6 +2,13 @@
 menu = Private Connections
 title = Private Internet Connections
 
+++ localroot
+probe = FPing10
+menu = localroot.treudler.net
+title = localroot.treudler.net
+host = localroot.treudler.net
+slaves = smokeping-google-ams smokeping-hetzner-fsn
+
 ++ kleinerhai-Shadow
 probe = FPing10
 menu = kleinerhai-Shadow
@@ -20,14 +27,13 @@ probe = FPing10
 menu = knight
 title = knight
 host = home.tobiassachs.de
-slaves = smokeping-google-ams
+slaves = smokeping-google-ams smokeping-hetzner-fsn
 
 ++ knight-FPing4
 probe = FPing4
 menu = knight-FPing4
 title = knight FPing4
 host = home.tobiassachs.de
-
 ++ amir
 probe = FPing10
 menu = amir
