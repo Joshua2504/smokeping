@@ -16,3 +16,4 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/Hetzner
 @include Targets.d/OVH
 @include Targets.d/google
+@include Targets.d/BladeSAS
