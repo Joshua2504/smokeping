@@ -1,0 +1,62 @@
++ Digitalocean
+menu = Digitalocean
+
+++ DO-fra1
+title = speedtest-fra1.digitalocean.com
+menu = fra1
+host = speedtest-fra1.digitalocean.com
+
+++ DO-lon1
+title = speedtest-lon1.digitalocean.com
+menu = lon1
+host = speedtest-lon1.digitalocean.com
+
+++ DO-blr1
+title = speedtest-blr1.digitalocean.com
+menu = blr1
+host = speedtest-blr1.digitalocean.com
+
+++ DO-tor1
+title = speedtest-tor1.digitalocean.com
+menu = tor1
+host = speedtest-tor1.digitalocean.com
+
+++ DO-nyc1
+title = speedtest-nyc1.digitalocean.com
+menu = nyc1
+host = speedtest-nyc1.digitalocean.com
+
+++ DO-nyc2
+title = speedtest-nyc2.digitalocean.com
+menu = nyc2
+host = speedtest-nyc2.digitalocean.com
+
+++ DO-nyc3
+title = speedtest-nyc3.digitalocean.com
+menu = nyc3
+host = speedtest-nyc3.digitalocean.com
+
+++ DO-ams2
+title = speedtest-ams2.digitalocean.com
+menu = ams2
+host = speedtest-ams2.digitalocean.com
+
+++ DO-ams3
+title = speedtest-ams3.digitalocean.com
+menu = ams3
+host = speedtest-ams3.digitalocean.com
+
+++ DO-sfo1
+title = speedtest-sfo1.digitalocean.com
+menu = sfo1
+host = speedtest-sfo1.digitalocean.com
+
+++ DO-sfo2
+title = speedtest-sfo2.digitalocean.com
+menu = sfo2
+host = speedtest-sfo2.digitalocean.com
+
+++ DO-sgp1
+title = speedtest-sgp1.digitalocean.com
+menu = sgp1
+host = speedtest-sgp1.digitalocean.com
