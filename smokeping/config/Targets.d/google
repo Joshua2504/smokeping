@@ -4,10 +4,10 @@ title = google
 probe = Curl120
 urlformat = http://%host%/
 
-#++ Aggregated
-#menu = google Aggregated
-#title = google Aggregated
-#host = /OVH/ping-ovh-net /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/#uk1-lg-ovh-net /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
+++ Aggregated
+menu = google Aggregated
+title = google Aggregated
+host = /google/google-asia-east1 /google/google-asia-east2 /google/google-asia-northeast1 /google/google-asia-northeast3 /google/google-asia-northeast3 /google/google-asia-south1 /google/google-asia-southeast1 /google/google-australia-southeast1 /google/google-europe-north1 /google/google-europe-west1 /google/google-europe-west2 /google/google-europe-west3 /google/google-europe-west4 /google/google-europe-west6 /google/google-northamerica-northeast1 /google/google-southamerica-east1 /google/google-us-central1 /google/google-us-east1 /google/google-us-east4 /google/google-us-west1 /google/google-us-west2 /google/google-us-west3 /google/google-us-west4
 
 ++ google-asia-east1
 menu = google-asia-east1-taiwan
