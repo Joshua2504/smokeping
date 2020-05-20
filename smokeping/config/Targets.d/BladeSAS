@@ -2,14 +2,17 @@
 menu = ShadowTech BladeSAS (AS 64476)
 title = ShadowTech BladeSAS (AS 64476)
 
-++ ShadowAMS
-menu = ShadowTech IP Addresses
-title = ShadowTech IP Addresses
+++ Shadow
+menu = ShadowTech IP Addresses (AMS)
+title = ShadowTech IP Addresses (AMS)
+probe = FPing120
 
-++ 85-190-88-243
++++ 85-190-88-243
 menu = 85.190.88.243
 title = 85.190.88.243
+host = 85.190.88.243
 
-++ 85-190-88-185
++++ 85-190-88-185
 menu = 85.190.88.185
 title = 85.190.88.185
+host = 85.190.88.185
