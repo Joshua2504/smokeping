@@ -32,12 +32,12 @@ host = www.telefonica.de
 +++ TelekomDE
 menu = Telekom
 title = Telekom
-host = www.telekom.de/start
+host = www.telekom.de
 
 +++ MnetDE
 menu = M-net
 title = M-net
-host = www.m-net.de/privatkunden
+host = www.m-net.de
 
 +++ EWEDE
 menu = EWE
@@ -51,7 +51,7 @@ title = Switzerland
 +++ SBB
 menu = SBB
 title = SBB
-host = www.sbb.ch/en
+host = www.sbb.ch
 
 ++ UK
 menu = United Kingdom
@@ -79,7 +79,7 @@ host = jupiterbroadcasting.com
 +++ Sun
 menu = Sun Microsystems
 title = Sun Microsystems Webserver
-host = www.oracle.com/sun
+host = www.oracle.com
 
 ++ Facebook
 menu = Facebook
