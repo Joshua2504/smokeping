@@ -44,6 +44,11 @@ menu = EWE
 title = EWE
 host = www.ewe.de
 
++++ Hetzner
+menu = Hetzner GmbH
+title = Hetzner GmbH
+host = www.hetzner.de
+
 ++ Switzerland
 menu = Switzerland
 title = Switzerland
