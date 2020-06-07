@@ -19,3 +19,4 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/BladeSAS
 @include Targets.d/DigitalOcean
 @include Targets.d/Packet
+@include Targets.d/FullTimeHosting

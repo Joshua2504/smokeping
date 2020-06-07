@@ -3,6 +3,12 @@ menu = Internet Sites
 title = Internet Sites
 probe = Curl300
 
+++ ks3http
+menu = ks3
+title = ks3
+probe = Curl120
+host = ks3.treudler.net:8000
+
 ++ cor-forum
 menu = CoR Forum
 title = CoR Forum
@@ -44,10 +50,25 @@ menu = EWE
 title = EWE
 host = www.ewe.de
 
++++ o2onlineDE
+menu = o2online
+title = o2online
+host = www.o2online.de
+
++++ 1und1DE
+menu = 1und1
+title = 1und1
+host = www.1und1.net
+
 +++ Hetzner
 menu = Hetzner GmbH
 title = Hetzner GmbH
 host = www.hetzner.de
+
++++ Bastler
+menu = Der Bastler
+title = Der Bastler
+host = www.der-bastler.de
 
 ++ Switzerland
 menu = Switzerland

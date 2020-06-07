@@ -48,20 +48,10 @@ menu = web.pilovali.nl
 title = web.pilovali.nl
 host = web.pilovali.nl
 
-++ pilo-web-ns1
-menu = ns1.web.pilovali.nl
-title = ns1.web.pilovali.nl
-host = ns1.web.pilovali.nl
-
-++ pilo-web-ns2
-menu = ns2.web.pilovali.nl
-title = ns2.web.pilovali.nl
-host = ns2.web.pilovali.nl
-
-++ pilo-web02
-menu = web02.pilovali.nl
-title = web02.pilovali.nl
-host = web02.pilovali.nl
+++ pilo-webbox
+menu = webbox.pilo.ovh
+title = webbox.pilo.ovh
+host = webbox.pilo.ovh
 
 ++ pilo-web02-ns1
 menu = ns1.web02.pilovali.nl
