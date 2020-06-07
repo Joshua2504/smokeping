@@ -1,0 +1,95 @@
++ FullTimeHosting
+menu = FullTimeHosting
+title = FullTimeHosting
+probe = FPing60
+slaves = smokeping-hetzner-fsn smokeping-google-ams
+
+++ FTHAggregated
+menu = FTH Aggregated
+title = FTH Aggregated
+host = /FullTimeHosting/fth-eu-sbg2 /FullTimeHosting/fth-eu-gra1 /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-eu-gra4 /FullTimeHosting/fth-eu-de1 /FullTimeHosting/fth-eu-de2 /FullTimeHosting/fth-eu-de3 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de5 /FullTimeHosting/fth-eu-de6 /FullTimeHosting/fth-eu-de7 /FullTimeHosting/fth-eu-de8 /FullTimeHosting/fth-eu-de9 /FullTimeHosting/fth-eu-uk1 /FullTimeHosting/fth-eu-hel1  /FullTimeHosting/fth-ca-bhs1  /FullTimeHosting/fth-ca-bhs2
+
+++ fth-eu-sbg2
+menu = fth-eu-sbg2
+title = fth-eu-sbg2
+host = eu-sbg2.fulltimehosting.net
+
+++ fth-eu-gra1
+menu = fth-eu-gra1
+title = fth-eu-gra1
+host = eu-gra1.fulltimehosting.net
+
+++ fth-eu-gra2
+menu = fth-eu-gra2
+title = fth-eu-gra2
+host = eu-gra2.fulltimehosting.net
+
+++ fth-eu-gra4
+menu = fth-eu-gra4
+title = fth-eu-gra4
+host = eu-gra4.fulltimehosting.net
+
+++ fth-eu-de1
+menu = fth-eu-de1
+title = fth-eu-de1
+host = eu-de1.fulltimehosting.net
+
+++ fth-eu-de2
+menu = fth-eu-de2
+title = fth-eu-de2
+host = eu-de2.fulltimehosting.net
+
+++ fth-eu-de3
+menu = fth-eu-de3
+title = fth-eu-de3
+host = eu-de3.fulltimehosting.net
+
+++ fth-eu-de4
+menu = fth-eu-de4
+title = fth-eu-de4
+host = eu-de4.fulltimehosting.net
+
+++ fth-eu-de5
+menu = fth-eu-de5
+title = fth-eu-de5
+host = eu-de5.fulltimehosting.net
+
+++ fth-eu-de6
+menu = fth-eu-de6
+title = fth-eu-de6
+host = eu-de6.fulltimehosting.net
+
+++ fth-eu-de7
+menu = fth-eu-de7
+title = fth-eu-de7
+host = eu-de7.fulltimehosting.net
+
+++ fth-eu-de8
+menu = fth-eu-de8
+title = fth-eu-de8
+host = eu-de8.fulltimehosting.net
+
+++ fth-eu-de9
+menu = fth-eu-de9
+title = fth-eu-de9
+host = eu-de9.fulltimehosting.net
+
+++ fth-eu-uk1
+menu = fth-eu-uk1
+title = fth-eu-uk1
+host = eu-uk1.fulltimehosting.net
+
+++ fth-eu-hel1
+menu = fth-eu-hel1
+title = fth-eu-hel1
+host = eu-hel1.fulltimehosting.net
+
+++ fth-ca-bhs1
+menu = fth-ca-bhs1
+title = fth-ca-bhs1
+host = ca-bhs1.fulltimehosting.net
+
+++ fth-ca-bhs2
+menu = fth-ca-bhs2
+title = fth-ca-bhs2
+host = ca-bhs2.fulltimehosting.net

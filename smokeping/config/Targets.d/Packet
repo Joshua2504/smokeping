@@ -1,0 +1,23 @@
++ Packet
+menu = Packet Host Inc
+title = Packet Host Inc
+
+++ packetnrt1
+title = speedtest.nrt1.packet.net
+menu = speedtest.nrt1.packet.net
+host = speedtest.nrt1.packet.net
+
+++ packetams1
+title = speedtest.ams1.packet.net
+menu = speedtest.ams1.packet.net
+host = speedtest.ams1.packet.net
+
+++ packetewr1
+title = speedtest.ewr1.packet.net
+menu = speedtest.ewr1.packet.net
+host = speedtest.ewr1.packet.net
+
+++ packetsjc1
+title = speedtest.sjc1.packet.net
+menu = speedtest.sjc1.packet.net
+host = speedtest.sjc1.packet.net
