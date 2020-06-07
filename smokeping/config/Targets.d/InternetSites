@@ -3,11 +3,11 @@ menu = Internet Sites
 title = Internet Sites
 probe = Curl300
 
-++ ks3http
-menu = ks3
-title = ks3
+++ ks4http
+menu = ks4
+title = ks4
 probe = Curl120
-host = ks3.treudler.net:8000
+host = ks4.treudler.net:8000
 
 ++ cor-forum
 menu = CoR Forum
@@ -20,6 +20,14 @@ menu = CoR Forum Curl10
 title = CoR Forum Curl10
 probe = Curl10
 host = www.cor-forum.de
+slaves = smokeping-google-ams smokeping-hetzner-fsn
+
+++ minecraftforum-Curl10
+menu = minecraftforum.de Curl10
+title = minecraftforum.de Curl10
+probe = Curl10
+host = minecraftforum.de
+slaves = smokeping-google-ams smokeping-hetzner-fsn
 
 ++ Germany
 menu = Germans

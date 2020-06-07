@@ -1,0 +1,24 @@
++ CalypsoITServices
+menu = CalypsoITServices-GmbH
+title = CalypsoITServices-GmbH
+probe = FPing300
+
+++ Server-11
+menu = 192.42.253.11
+title = 192.42.253.11 [DE](FFM)
+host = 192.42.253.11
+
+++ Server-180
+menu = 192.42.253.180
+title = 192.42.253.180 [DE](FFM)
+host = 192.42.253.180
+
+++ Server-186
+menu = 192.42.253.186
+title = 192.42.253.186 [DE](FFM)
+host = 192.42.253.186
+
+++ Server-210
+menu = 192.42.253.210
+title = 192.42.253.210 [DE](FFM)
+host = 192.42.253.210

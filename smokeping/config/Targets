@@ -8,11 +8,11 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
          Here you will learn all about the latency of my network.
 
 @include Targets.d/Internal
+@include Targets.d/DNS
 @include Targets.d/Private
+@include Targets.d/InternetSites
 @include Targets.d/3rdPartyServers
 @include Targets.d/Pilovali
-@include Targets.d/InternetSites
-@include Targets.d/DNS
 @include Targets.d/Hetzner
 @include Targets.d/OVH
 @include Targets.d/google
@@ -20,3 +20,6 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/DigitalOcean
 @include Targets.d/Packet
 @include Targets.d/FullTimeHosting
+@include Targets.d/BungeeCloud
+@include Targets.d/Lumaserv
+@include Targets.d/CalypsoITServices
