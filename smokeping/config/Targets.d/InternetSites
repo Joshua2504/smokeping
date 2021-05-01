@@ -3,12 +3,6 @@ menu = Internet Sites
 title = Internet Sites
 probe = Curl300
 
-++ ks4http
-menu = ks4
-title = ks4
-probe = Curl120
-host = ks4.treudler.net:8000
-
 ++ cor-forum
 menu = CoR Forum
 title = CoR Forum
