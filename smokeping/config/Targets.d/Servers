@@ -1,0 +1,34 @@
++ Servers
+menu = Servers
+title = Servers
+probe = FPing60
+
+++ Aggregated
+menu = Servers Aggregated
+title = Servers Aggregated
+host = /Servers/uranus /Servers/merkur /Servers/pluto /Servers/styx /Servers/mail
+
+++ uranus
+menu = uranus.treudler.net
+title = uranus.treudler.net
+host = uranus.treudler.net
+
+++ merkur
+menu = merkur.treudler.net
+title = merkur.treudler.net
+host = merkur.treudler.net
+
+++ pluto
+menu = pluto.treudler.net
+title = pluto.treudler.net
+host = pluto.treudler.net
+
+++ styx
+menu = styx.treudler.net
+title = styx.treudler.net
+host = styx.treudler.net
+
+++ mail
+menu = mail.treudler.net
+title = mail.treudler.net
+host = mail.treudler.net
