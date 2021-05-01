@@ -15,12 +15,12 @@ title = CoR Forum
 probe = Curl120
 host = www.cor-forum.de
 
-++ cor-forum-Curl10
-menu = CoR Forum Curl10
-title = CoR Forum Curl10
-probe = Curl10
-host = www.cor-forum.de
-slaves = smokeping-google-ams smokeping-hetzner-fsn
+#++ cor-forum-Curl10
+#menu = CoR Forum Curl10
+#title = CoR Forum Curl10
+#probe = Curl10
+#host = www.cor-forum.de
+#slaves = smokeping-google-ams smokeping-hetzner-fsn
 
 ++ minecraftforum-Curl10
 menu = minecraftforum.de Curl10

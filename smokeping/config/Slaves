@@ -8,3 +8,7 @@ color=0000ff
 +smokeping-hetzner-fsn
 display_name=Hetzner Falkenstein
 color=00ff00
+
++smokeping-slave-tobias
+display_name=Bad Soden-Salmuenster
+color=ff00ff

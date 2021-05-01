@@ -3,8 +3,10 @@ version: "2.1"
 services:
   smokeping:
     image: linuxserver/smokeping
+    labels:
+      - "com.centurylinklabs.watchtower.enable=true"
     container_name: smokeping
-    hostname: Bremerhaven
+    hostname: smokeping
     environment:
       - PUID=1000
       - PGID=1000
@@ -13,5 +15,5 @@ services:
       - ./smokeping/config:/config
       - ./smokeping/data:/data
     ports:
-      - 8888:80
+      - 10.0.0.3:8182:80
     restart: always

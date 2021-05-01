@@ -1,0 +1,32 @@
++ NimbleGiant
+menu = Nimble Giant Entertainment
+title = Nimble Giant Entertainment
+slaves = smokeping-slave-tobias
+
+++ RegnumOnline
+menu = Regnum Online
+title = Regnum Online Latency
+
++++ RO-Server-Ra
+probe = FPing4
+menu = Server Ra
+title = Regnum Server Ra
+host = 104.196.13.153
+
++++ RO-Server-Valhalla
+probe = FPing4
+menu = Server Valhalla
+title = Regnum Server Valhalla
+host = 35.242.217.243
+
++++ RO-Patch-Download01-Curl60
+probe = Curl60
+menu = Patch Download01
+title = Regnum Patch Server Download01
+host = download01.championsofregnum.com
+
++++ RO-Patch-104-196-149-195-Curl60
+probe = Curl60
+menu = Patch 104.196.149.195
+title = Regnum Patch Server 104.196.149.195
+host = 104.196.149.195

@@ -1,7 +1,7 @@
 + Private
 menu = Private Connections
 title = Private Internet Connections
-slaves = smokeping-google-ams smokeping-hetzner-fsn
+slaves = smokeping-slave-tobias smokeping-google-ams smokeping-hetzner-fsn
 
 ++ localroot
 probe = FPing10
