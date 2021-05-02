@@ -1,0 +1,19 @@
++ Uvensys
+menu = Uvensys GmbH
+title = Uvensys GmbH
+
+++ Web
+menu = Web
+title = Web
+
++++ uvensysde
+probe = Curl60
+menu = uvensys.de
+title = uvensys.de
+host = uvensys.de
+
++++ ticketuvensysde
+probe = Curl60
+menu = ticket.uvensys.de
+title = ticket.uvensys.de
+host = ticket.uvensys.de
