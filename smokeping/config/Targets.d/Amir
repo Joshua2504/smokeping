@@ -18,7 +18,6 @@ menu = cdn.amir.ovh
 title = cdn.amir.ovh
 host = cdn.amir.ovh
 
-
 +++ as207740
 menu = as207740.net
 title = as207740.net
@@ -38,7 +37,6 @@ host = /server/5 /server/6 /server/7 /server/8 /server/9 /server/10 /server/11 /
 menu = 5 RU, Moscow (NTX Technologies)
 title = 5 RU, Moscow (NTX Technologies)
 host = ru.amir.ovh
-
 
 +++ 6
 menu = 6 RO, Bucharest (HostSailor)
