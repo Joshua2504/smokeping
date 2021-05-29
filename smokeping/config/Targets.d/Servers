@@ -8,6 +8,11 @@ menu = Servers Aggregated
 title = Servers Aggregated
 host = /Servers/uranus /Servers/merkur /Servers/pluto /Servers/styx /Servers/mail
 
+++ fra1-uvensys
+menu = fra1.treudler.net
+title = fra1.treudler.net
+host = fra1.treudler.net
+
 ++ uranus
 menu = uranus.treudler.net
 title = uranus.treudler.net
