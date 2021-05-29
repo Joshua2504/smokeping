@@ -1,0 +1,42 @@
++ Amir
+menu = Amir.OVH
+title = Amir.OVH
+probe = FPing120
+
+++ websites
+menu = Websites
+title = Amir.OVH Websites
+
++++ website
+menu = amir.ovh
+title = amir.ovh
+host = amir.ovh
+probe = Curl300
+
++++ cdn
+menu = cdn.amir.ovh
+title = cdn.amir.ovh
+host = cdn.amir.ovh
+probe = Curl300
+
++++ as207740
+menu = as207740.net
+title = as207740.net
+host = as207740.net
+probe = Curl300
+
+++ server
+menu = Servers
+title = Amir.OVH Servers
+Probe = FPing120
+
++++ Aggregated
+menu = Servers Aggregated
+title = Servers Aggregated
+host = /Servers/example
+
+
++++ 
+menu = 
+title = 
+host = 
