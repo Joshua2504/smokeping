@@ -33,10 +33,90 @@ Probe = FPing120
 +++ Aggregated
 menu = Servers Aggregated
 title = Servers Aggregated
-host = /Servers/example
+host = /server/5 /server/6 /server/7 /server/8 /server/9 /server/10 /server/11 /server/12 /server/13 /server/14 /server/15 /server/16 /server/17 /server/18 /server/19 /server/20 /server/21
 
 
-+++ 
-menu = 
-title = 
++++ 5
+menu = 5 RU, Moscow (NTX Technologies)
+title = 5 RU, Moscow (NTX Technologies)
+host = 
+
++++ 6
+menu = 6 RO, Bucharest (HostSailor)
+title = 6 RO, Bucharest (HostSailor)
+host = 
+
++++ 7
+menu = 7 FR, Gravelines (OVH)
+title = 7 FR, Gravelines (OVH)
+host = 
+
++++ 8
+menu = 8 UK, London (OVH)
+title = 8 UK, London (OVH)
+host = 
+
++++ 9
+menu = 9 NL, Dronten (NextGenWebs)
+title = 9 NL, Dronten (NextGenWebs)
+host = 
+
++++ 10
+menu = 10 NL, Amsterdam (ColoCrossing)
+title = 10 NL, Amsterdam (ColoCrossing)
+host = 
+
++++ 11
+menu = 11 NL, Amsterdam (ColoCrossing)
+title = 11 NL, Amsterdam (ColoCrossing)
+host = 
+
++++ 12
+menu = 12 DE, Frankfurt (FullTimeHosting)
+title = 12 DE, Frankfurt (FullTimeHosting)
+host = 
+
++++ 13
+menu = 13 NL, Haarlem (LLHost)
+title = 13 NL, Haarlem (LLHost)
+host = 
+
++++ 14
+menu = 14 DE, Falkenstein (Hetzner)
+title = 14 DE, Falkenstein (Hetzner)
+host = 
+
++++ 15
+menu = 15 DE, Düsseldorf (Netnik)
+title = 15 DE, Düsseldorf (Netnik)
+host = 
+
++++ 16
+menu = 16 NL, Dronten (Bakker IT)
+title = 16 NL, Dronten (Bakker IT)
+host = 
+
++++ 17
+menu = 17 LU, Roost (Frantech)
+title = 17 LU, Roost (Frantech)
+host = 
+
++++ 18
+menu = 18 RO, Bucharest (LayerBridge)
+title = 18 RO, Bucharest (LayerBridge)
+host = 
+
++++ 19
+menu = 19 US, Rosten (Misaka Network)
+title = 19 US, Rosten (Misaka Network)
+host = 
+
++++ 20
+menu = 20 CA, Montreal (OVH)
+title = 20 CA, Montreal (OVH)
+host = 
+
++++ 21
+menu = 21 CN, Guangzhou (China Telecom)
+title = 21 CN, Guangzhou (China Telecom)
 host = 
