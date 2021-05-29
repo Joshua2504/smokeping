@@ -106,8 +106,3 @@ host = buh.207740.xyz
 menu = 19 US, Rosten (Misaka Network)
 title = 19 US, Rosten (Misaka Network)
 host = iad.207740.xyz
-
-+++ 20
-menu = 20 CA, Montreal (OVH)
-title = 20 CA, Montreal (OVH)
-host = bhs.207740.xyz
