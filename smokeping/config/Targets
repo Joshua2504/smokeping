@@ -22,4 +22,3 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/FullTimeHosting
 @include Targets.d/BungeeCloud
 @include Targets.d/NimbleGiant
-@include Targets.d/BladeSAS
