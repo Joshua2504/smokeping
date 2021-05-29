@@ -2,26 +2,8 @@
 menu = 3rd Party Servers
 title = 3rd Party Servers
 
-++ amir-de-contabo
-probe = FPing120
-menu = Amir DE Contabo (München)
-title = Amir DE Contabo (München)
-host = de.amir.ovh
-
 ++ knight-de-ovh
 probe = FPing120
 menu = Knight DE OVH (Limburg)
 title = Knight DE OVH (Limburg)
 host = tobiassachs.de
-
-++ pilovali-nl-liteserver
-probe = FPing120
-menu = Pilovali NL Liteserver
-title = Pilovali NL Liteserver 5.2.70.47
-host = 5.2.70.47
-
-++ pilovali-s1-pilovali-nl
-probe = FPing120
-menu = Pilovali s1.pilovali.nl
-title = Pilovali s1.pilovali.nl
-host = s1.pilovali.nl
