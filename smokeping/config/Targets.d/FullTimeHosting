@@ -2,7 +2,6 @@
 menu = FullTimeHosting
 title = FullTimeHosting
 probe = FPing60
-slaves = smokeping-hetzner-fsn smokeping-google-ams
 
 ++ FTHAggregated
 menu = FTH Aggregated
