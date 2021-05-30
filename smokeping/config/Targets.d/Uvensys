@@ -17,3 +17,9 @@ probe = Curl60
 menu = ticket.uvensys.de
 title = ticket.uvensys.de
 host = ticket.uvensys.de
+
++++ chatuvensysde
+probe = Curl60
+menu = chat.uvensys.de
+title = chat.uvensys.de
+host = chat.uvensys.de
