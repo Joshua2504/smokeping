@@ -7,7 +7,7 @@ slaves = smokeping-hetzner-fsn smokeping-google-ams
 ++ FTHAggregated
 menu = FTH Aggregated
 title = FTH Aggregated
-host = /FullTimeHosting/fth-eu-sbg2 /FullTimeHosting/fth-eu-gra1 /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-eu-gra4 /FullTimeHosting/fth-eu-de1 /FullTimeHosting/fth-eu-de2 /FullTimeHosting/fth-eu-de3 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de5 /FullTimeHosting/fth-eu-de6 /FullTimeHosting/fth-eu-de7 /FullTimeHosting/fth-eu-de8 /FullTimeHosting/fth-eu-de9 /FullTimeHosting/fth-eu-uk1 /FullTimeHosting/fth-eu-hel1  /FullTimeHosting/fth-ca-bhs1  /FullTimeHosting/fth-ca-bhs2
+host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-eu-gra3 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de22 /FullTimeHosting/fth-eu-de23 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-de825 /FullTimeHosting/fth-eu-uk2 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs
 
 ++ fth-edge-de1
 menu = fth-edge-de1
