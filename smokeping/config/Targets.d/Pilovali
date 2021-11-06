@@ -23,9 +23,10 @@ menu = web.pilovali.nl
 title = web.pilovali.nl
 host = web.pilovali.nl
 
+ok
 ++ pilo-webbox
-menu = webbox.pilo.ovh
-title = webbox.pilo.ovh
+menu = webbox.pilo.ovh (buyVM)
+title = webbox.pilo.ovh (buyVM)
 host = webbox.pilo.ovh
 
 ++ pilo-web02-ns1
