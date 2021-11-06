@@ -1,45 +1,65 @@
 + Pilovali
 menu = Pilovali
 title = Pilovali
-probe = FPing300
+probe = FPing120
+slave = smokeping-home
 
-++ pilo-s6
-menu = s6.pilovali.nl (KPN)
-title = s6.pilovali.nl (KPN)
+++ pilo-house
+menu = House (T-Mobile)
+title = House (T-Mobile)
+host = penningkruid.weiteveen.pilovali.nl
+
+++ pilo-mother
+menu = Mother (KPN)
+title = Mother (KPN)
 host = s6.pilovali.nl
 
-++ pilo-s7
-menu = s7.pilovali.nl (Hetzner)
-title = s7.pilovali.nl (Hetzner)
-host = s7.pilovali.nl
+++ pilo-dad
+menu = Dad (T-Mobile)
+title = Dad (T-Mobile)
+host = s2.pilovali.nl
 
-++ pilovali-nl-liteserver
-menu = Pilovali NL (Liteserver)
-title = Pilovali NL (Liteserver) 5.2.70.47
-host = 5.2.70.47
-
-++ pilo-web
-menu = web.pilovali.nl
-title = web.pilovali.nl
-host = web.pilovali.nl
-
-ok
 ++ pilo-webbox
 menu = webbox.pilo.ovh (buyVM)
 title = webbox.pilo.ovh (buyVM)
 host = webbox.pilo.ovh
 
-++ pilo-web02-ns1
-menu = ns1.web02.pilovali.nl
-title = ns1.web02.pilovali.nl
-host = ns1.web02.pilovali.nl
+++ pilo-citradio-azura
+menu = CITRadio Azura (Hetzner)
+title = CITRadio Azura (Hetzner)
+host = azura.citradio.net
 
-++ pilo-web02-ns2
-menu = ns2.web02.pilovali.nl
-title = ns2.web02.pilovali.nl
-host = ns2.web02.pilovali.nl
+++ pilo-vpn-sg2
+menu = VPN SG2 (OVH SGP)
+title = VPN SG2 (OVH SGP)
+host = sgp2.pilovali.nl
 
-++ pilo-vpn-free-gra01
-menu = gra01.fr.vpn.free.pilovali.nl (OVH)
-title = gra01.fr.vpn.free.pilovali.nl (OVH)
-host = gra01.fr.vpn.free.pilovali.nl
+++ pilo-vpn-nl
+menu = VPN NL (Dronten Liteserver)
+title = VPN NL (Dronten Liteserver)
+host = moieem.jarno.pro
+
+++ pilo-vpn-gra
+menu = VPN FR (OVH GRA)
+title = VPN FR (OVH GRA)
+host = gra.pilovali.nl
+
+++ pilo-vpn-free-gra
+menu = VPN FR FREE (OVH GRA)
+title = VPN FR FREE (OVH GRA)
+host = 137.74.174.90
+
+++ pilo-converter-1
+menu = Converter 1 (FTH)
+title = Converter 1 (FTH)
+host = 103.153.157.4
+
+++ pilo-converter-2
+menu = Converter 2 (FTH)
+title = Converter 2 (FTH)
+host = 103.153.157.8
+
+++ pilo-converter-3
+menu = Converter 3 (FTH)
+title = Converter 3 (FTH)
+host = 188.165.49.104
