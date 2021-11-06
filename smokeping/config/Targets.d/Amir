@@ -1,7 +1,6 @@
 + Amir
 menu = Amir.OVH
 title = Amir.OVH
-probe = FPing120
 
 ++ websites
 probe = Curl300
@@ -26,6 +25,7 @@ host = as207740.net
 ++ server
 menu = Servers
 title = Amir.OVH Servers
+probe = FPing120
 
 +++ Aggregated
 menu = Servers Aggregated
