@@ -6,7 +6,7 @@ probe = FPing60
 ++ FTHAggregated
 menu = FTH Aggregated
 title = FTH Aggregated
-host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-eu-gra3 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de22 /FullTimeHosting/fth-eu-de23 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-de25 /FullTimeHosting/fth-eu-uk2 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs1
+host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs1
 
 ++ fth-edge-de1
 menu = fth-edge-de1
@@ -17,11 +17,6 @@ host = edge-de1.fulltimehosting.net
 menu = fth-eu-gra2
 title = fth-eu-gra2
 host = eu-gra2.fulltimehosting.net
-
-++ fth-eu-gra3
-menu = fth-eu-gra3
-title = fth-eu-gra3
-host = eu-gra3.fulltimehosting.net
 
 ++ fth-eu-de4
 menu = fth-eu-de4
@@ -38,30 +33,10 @@ menu = fth-eu-de21
 title = fth-eu-de21
 host = eu-de21.fulltimehosting.net
 
-++ fth-eu-de22
-menu = fth-eu-de22
-title = fth-eu-de22
-host = eu-de22.fulltimehosting.net
-
-++ fth-eu-de23
-menu = fth-eu-de23
-title = fth-eu-de23
-host = eu-de23.fulltimehosting.net
-
 ++ fth-eu-de24
 menu = fth-eu-de24
 title = fth-eu-de24
 host = eu-de24.fulltimehosting.net
-
-++ fth-eu-de25
-menu = fth-eu-de25
-title = fth-eu-de25
-host = eu-de25.fulltimehosting.net
-
-++ fth-eu-uk2
-menu = fth-eu-uk2
-title = fth-eu-uk2
-host = eu-uk2.fulltimehosting.net
 
 ++ fth-eu-hel1
 menu = fth-eu-hel1
