@@ -1,7 +1,7 @@
 + DNS
 menu = DNS
 title = DNS
-slaves = smokeping-google-ams
+slaves = smokeping-home
 
 ++ GoogleDNS1
 menu = Google DNS 1
