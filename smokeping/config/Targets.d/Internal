@@ -1,9 +1,11 @@
 + Internal
 menu = Internal Connections
 title = Internal Connections at Home
+slaves = smokeping-home
 
-++ cam-1
-menu = bridged-cam-1
-title = bridged-cam-1-192.168.178.201
+++ Unifi-UDM-Pro
+menu = Unifi UDM Pro
+title = unifi-udm-pro-10-0-0-1
 probe = FPing10
-host = 192.168.178.201
+host = 10.0.0.1
+

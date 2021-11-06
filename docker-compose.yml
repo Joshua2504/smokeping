@@ -15,5 +15,5 @@ services:
       - ./smokeping/config:/config
       - ./smokeping/data:/data
     ports:
-      - 10.0.0.3:8182:80
+      - 8182:80
     restart: always
