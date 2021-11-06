@@ -5,8 +5,8 @@ slaves = smokeping-home
 
 ++ localroot
 probe = FPing10
-menu = localroot.treudler.net
-title = localroot.treudler.net
+menu = Mother (Langen)
+title = Mother (Langen)
 host = localroot.treudler.net
 
 ++ knight
