@@ -2,6 +2,7 @@
 menu = Servers
 title = Servers
 probe = FPing60
+slaves = smokeping-home
 
 ++ Aggregated
 menu = Servers Aggregated
