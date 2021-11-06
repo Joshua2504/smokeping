@@ -1,4 +1,4 @@
-*** Targets ***
+#*** Targets ***
 
 probe = FPing300
 
@@ -10,7 +10,6 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/Servers
 @include Targets.d/Internal
 @include Targets.d/Private
-@include Targets.d/Uvensys
 @include Targets.d/DNS
 @include Targets.d/InternetSites
 @include Targets.d/3rdPartyServers
@@ -22,4 +21,5 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/DigitalOcean
 @include Targets.d/FullTimeHosting
 @include Targets.d/BungeeCloud
-@include Targets.d/NimbleGiant
+@include Targets.d/Uvensys
+#@include Targets.d/NimbleGiant
