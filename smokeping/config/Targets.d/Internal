@@ -3,9 +3,43 @@ menu = Internal Connections
 title = Internal Connections at Home
 slaves = smokeping-home
 
-++ Unifi-UDM-Pro
-menu = Unifi UDM Pro
-title = unifi-udm-pro-10-0-0-1
+++ Ubiquiti
+menu = Ubiquiti
+title = Ubiquiti
 probe = FPing10
+
++++ Unifi-UDM-Pro
+menu = Unifi UDM Pro
+title = Unifi UDM Pro (10.0.0.1)
 host = 10.0.0.1
+
++++ US-48-G1
+menu = Unifi 48P Switch
+title = Unifi 48P Switch (10.0.0.241)
+host = 10.0.0.241
+
++++ Switch-Mini-1
+menu = Switch Joshua Schreibtisch
+title = Switch Joshua Schreibtisch
+host = 10.0.6.212
+
++++ Switch-Mini-2
+menu = Switch Jonas Schreibtisch
+title = Switch Jonas Schreibtisch
+host = 10.0.0.136
+
++++ AP-Pro-1
+menu = AP Pro Flur
+title = AP Pro Flur
+host = 10.0.0.182
+
++++ AP-Lite-1
+menu = AP Lite Flur (unten)
+title = AP Lite Flur (unten)
+host = 10.0.6.7
+
++++ AP-Lite-2
+menu = AP Lite Keller
+title = AP Lite Keller
+host = 10.0.4.72
 
