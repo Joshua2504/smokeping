@@ -1,5 +1,6 @@
 + Digitalocean
 menu = Digitalocean
+slaves = smokeping-home
 
 ++ DO-fra1
 title = speedtest-fra1.digitalocean.com
