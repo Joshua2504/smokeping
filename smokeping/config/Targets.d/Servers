@@ -6,12 +6,7 @@ probe = FPing60
 ++ Aggregated
 menu = Servers Aggregated
 title = Servers Aggregated
-host = /Servers/fra1-uvensys /Servers/uranus /Servers/merkur /Servers/pluto /Servers/styx /Servers/mail
-
-++ fra1-uvensys
-menu = fra1.treudler.net
-title = fra1.treudler.net
-host = fra1.treudler.net
+host = /Servers/uranus /Servers/merkur /Servers/pluto /Servers/styx /Servers/mail
 
 ++ uranus
 menu = uranus.treudler.net
