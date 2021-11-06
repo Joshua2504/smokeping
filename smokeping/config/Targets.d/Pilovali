@@ -2,7 +2,7 @@
 menu = Pilovali
 title = Pilovali
 probe = FPing120
-slave = smokeping-home
+slaves = smokeping-home
 
 ++ pilo-house
 menu = House (T-Mobile)
