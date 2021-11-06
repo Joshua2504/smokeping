@@ -6,7 +6,7 @@ probe = FPing60
 ++ FTHAggregated
 menu = FTH Aggregated
 title = FTH Aggregated
-host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-eu-gra3 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de22 /FullTimeHosting/fth-eu-de23 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-de825 /FullTimeHosting/fth-eu-uk2 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs
+host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-eu-gra3 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de22 /FullTimeHosting/fth-eu-de23 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-de825 /FullTimeHosting/fth-eu-uk2 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs1
 
 ++ fth-edge-de1
 menu = fth-edge-de1
