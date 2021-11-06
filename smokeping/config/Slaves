@@ -3,7 +3,7 @@ secrets=/config/smokeping_secrets
 
 +smokeping-home
 display_name=Frankfurt (Starlink)
-color=ffff00
+color=ff5733
 
 +smokeping-google-ams
 display_name=Google Cloud Amsterdam
