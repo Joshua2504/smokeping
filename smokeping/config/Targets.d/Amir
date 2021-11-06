@@ -32,70 +32,71 @@ menu = Servers Aggregated
 title = Servers Aggregated
 host = /Amir/server/5 /Amir/server/6 /Amir/server/7 /Amir/server/8 /Amir/server/9 /Amir/server/10 /Amir/server/11 /Amir/server/12 /Amir/server/13 /Amir/server/14 /Amir/server/15 /Amir/server/16 /Amir/server/17 /Amir/server/18 /Amir/server/19
 
+
 +++ 5
-menu = 5 RU, Moscow (NTX Technologies)
-title = 5 RU, Moscow (NTX Technologies)
-host = ru.amir.ovh
+menu = 5 NL, Amsterdam (HostSailor)
+title = 5 NL, Amsterdam (HostSailor)
+host = nl.amir.ovh
 
 +++ 6
-menu = 6 RO, Bucharest (HostSailor)
-title = 6 RO, Bucharest (HostSailor)
-host = ro.amir.ovh
-
-+++ 7
-menu = 7 BG, Sofia (DA International)
-title = 7 BG, Sofia (DA International)
+menu = 6 BG, Sofia (DA International)
+title = 6 BG, Sofia (DA International)
 host = bg.amir.ovh
 
-+++ 8
-menu = 8 DE, Münich (Contabo)
-title = 8 DE, Münich (Contabo)
++++ 7
+menu = 7 DE, Münich (Contabo)
+title = 7 DE, Münich (Contabo)
 host = de.amir.ovh
 
-+++ 9
-menu = 9 NL, Dronten (NextGenWebs)
-title = 9 NL, Dronten (NextGenWebs)
++++ 8
+menu = 8 NL, Dronten (NextGenWebs)
+title = 8 NL, Dronten (NextGenWebs)
 host = dro.amir.ovh
 
-+++ 10
-menu = 10 NL, Amsterdam (ColoCrossing)
-title = 10 NL, Amsterdam (ColoCrossing)
++++ 9
+menu = 9 NL, Amsterdam (ColoCrossing)
+title = 9 NL, Amsterdam (ColoCrossing)
 host = ams01.amir.ovh
 
-+++ 11
-menu = 11 NL, Amsterdam (ColoCrossing)
-title = 11 NL, Amsterdam (ColoCrossing)
-host = ams02.amir.ovh
++++ 10
+menu = 10 US, Texas (Data Ideas)
+title = 10 US, Texas (Data Ideas)
+host = dfw.amir.ovh
 
-+++ 12
-menu = 12 DE, Frankfurt (FullTimeHosting)
-title = 12 DE, Frankfurt (FullTimeHosting)
++++ 11
+menu = 11 DE, Frankfurt (FullTimeHosting)
+title = 11 DE, Frankfurt (FullTimeHosting)
 host = 103.153.157.74
 
-+++ 13
-menu = 13 NL, Haarlem (LLHost)
-title = 13 NL, Haarlem (LLHost)
-host = hlm.207740.xyz
++++ 12
+menu = 12 IT Palermo (Melbicom)
+title = 12 IT, Palermo (Melbicom)
+host = 91.201.67.183
 
-+++ 14
-menu = 14 DE, Falkenstein (Hetzner)
-title = 14 DE, Falkenstein (Hetzner)
++++ 13
+menu = 13 DE, Falkenstein (Hetzner)
+title = 13 DE, Falkenstein (Hetzner)
 host = fsn.207740.xyz
 
-+++ 15
-menu = 15 DE, Düsseldorf (Netnik)
-title = 15 DE, Düsseldorf (Netnik)
++++ 14
+menu = 14 DE, Düsseldorf (ServerGurus)
+title = 14 DE, Düsseldorf (ServerGurus)
 host = dus.207740.xyz
 
++++ 15
+menu = 15 DE, Frankfurt (iFog)
+title = 15 DE, Frankfurt (iFog)
+host = fra.207740.xyz
+
 +++ 16
-menu = 16 NL, Dronten (Bakker IT)
-title = 16 NL, Dronten (Bakker IT)
-host = dro.207740.xyz
+menu = 16 NL, Haarlem (LLHost)
+title = 16 NL, Haarlem (LLHost)
+host = hlm.207740.xyz
 
 +++ 17
-menu = 17 LU, Roost (Frantech)
-title = 17 LU, Roost (Frantech)
-host = lux.207740.xyz
+menu = 17 NL, Dronten (Bakker IT)
+title = 17 NL, Dronten (Bakker IT)
+host = dro.207740.xyz
 
 +++ 18
 menu = 18 RO, Bucharest (LayerBridge)
@@ -103,6 +104,6 @@ title = 18 RO, Bucharest (LayerBridge)
 host = buh.207740.xyz
 
 +++ 19
-menu = 19 US, Rosten (Misaka Network)
-title = 19 US, Rosten (Misaka Network)
-host = iad.207740.xyz
+menu = 19 NO, Sandefjord (Joseph Farnell)
+title = 19 NO, Sandefjord (Joseph Farnell)
+host = osl.207740.xyz
