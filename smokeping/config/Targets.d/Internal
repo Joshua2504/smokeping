@@ -3,6 +3,16 @@ menu = Internal Connections
 title = Internal Connections at Home
 slaves = smokeping-home
 
+++ Clients
+menu = Clients
+title = Network Clients
+probe = FPing10
+
++++ Dom-Laptop-Arbeit
+menu = Dom Laptop Arbeit
+title = Dom Laptop Arbeit
+host = 192.168.2.203
+
 ++ Ubiquiti
 menu = Ubiquiti
 title = Ubiquiti
