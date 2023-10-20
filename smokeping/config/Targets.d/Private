@@ -3,11 +3,11 @@ menu = Private Connections
 title = Private Internet Connections
 slaves = smokeping-home
 
-++ localroot
-probe = FPing10
-menu = Mother (Langen)
-title = Mother (Langen)
-host = localroot.treudler.net
+#++ localroot
+#probe = FPing10
+#menu = Mother (Langen)
+#title = Mother (Langen)
+#host = localroot.treudler.net
 
 ++ knight
 probe = FPing10

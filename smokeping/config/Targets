@@ -3,23 +3,32 @@
 probe = FPing300
 
 menu = Top
-title = Network Latency Grapher
+title = Joshua2504's Network Latency Grapher
 remark = Welcome to my SmokePing Network Latency Grapher. \
-         Here you will learn all about the latency of my network and others.
+         Here you will learn all about the latency of my network. \ 
+         If you want your servers to be added to this Network Latency Monitoring, \
+         please send an e-mail to smokeping <at> treudler <dot> net. \
 
-@include Targets.d/Servers
-@include Targets.d/Internal
-@include Targets.d/Private
-@include Targets.d/DNS
-@include Targets.d/InternetSites
-@include Targets.d/3rdPartyServers
+@include Targets.d/Compare
+@include Targets.d/Customers
 @include Targets.d/Amir
-@include Targets.d/Pilovali
-@include Targets.d/Hetzner
-@include Targets.d/OVH
-@include Targets.d/google
-@include Targets.d/DigitalOcean
-@include Targets.d/FullTimeHosting
+@include Targets.d/Bahn
 @include Targets.d/BungeeCloud
+@include Targets.d/DigitalOcean
+@include Targets.d/DNS
+@include Targets.d/FullTimeHosting
+@include Targets.d/google
+@include Targets.d/Hetzner
+@include Targets.d/HexaMain
+@include Targets.d/InternetSites
+@include Targets.d/JPH
+@include Targets.d/OVH
+@include Targets.d/Pilovali
+@include Targets.d/Private
+@include Targets.d/ProHosting24
+@include Targets.d/Servers
 @include Targets.d/Uvensys
+@include Targets.d/3rdPartyServers
+
+# @include Targets.d/Internal
 #@include Targets.d/NimbleGiant

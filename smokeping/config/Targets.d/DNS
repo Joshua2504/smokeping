@@ -1,44 +1,63 @@
 + DNS
 menu = DNS
 title = DNS
-slaves = smokeping-home
 
-++ GoogleDNS1
+++ Google
+menu = Google
+title = Google DNS Servers
+host = /DNS/Google/GoogleDNS1 /DNS/Google/GoogleDNS2
+
++++ GoogleDNS1
 menu = Google DNS 1
 title = Google DNS 8.8.8.8
 host = 8.8.8.8
 
-++ GoogleDNS2
++++ GoogleDNS2
 menu = Google DNS 2
 title = Google DNS 8.8.4.4
 host = 8.8.4.4
 
-++ OpenDNS1
+++ OpenDNS
+menu = OpenDNS
+title = OpenDNS Servers
+host = /DNS/OpenDNS/OpenDNS1 /DNS/OpenDNS/OpenDNS2
+
++++ OpenDNS1
 menu = OpenDNS 1
 title = OpenDNS 208.67.222.222
 host = 208.67.222.222
 
-++ OpenDNS2
++++ OpenDNS2
 menu = OpenDNS 2
 title = OpenDNS 208.67.220.220
 host = 208.67.220.220
 
-++ CloudflareDNS1
+++ Cloudflare
+menu = Cloudflare
+title = CloudFlare DNS Servers
+host = /DNS/Cloudflare/CloudflareDNS1 /DNS/Cloudflare/CloudflareDNS2
+
++++ CloudflareDNS1
 menu = Cloudflare DNS 1
 title = Cloudflare DNS 1.1.1.1
 host = 1.1.1.1
 
-++ CloudflareDNS2
++++ CloudflareDNS2
 menu = Cloudflare DNS 2
 title = Cloudflare DNS 1.0.0.1
 host = 1.0.0.1
 
-++ VodafoneDNS1
+++ Vodafone
+menu = Vodafone
+title = Vodafone DNS Servers
+host = /DNS/Vodafone/VodafoneDNS1 /DNS/Vodafone/VodafoneDNS2
+
++++ VodafoneDNS1
 menu = Vodafone DNS 1
 title = Vodafone DNS 1 88.134.228.161
 host = 88.134.228.161
 
-++ VodafoneDNS2
++++ VodafoneDNS2
 menu = Vodafone DNS 2
 title = Vodafone DNS 2 88.134.228.225
 host = 88.134.228.225

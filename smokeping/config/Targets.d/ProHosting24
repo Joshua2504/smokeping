@@ -1,0 +1,43 @@
++ ProHosting24
+menu = ProHosting24
+title = ProHosting24
+
+++ Web
+menu = Web
+title = Web
+host = /ProHosting24/Web/www /ProHosting24/Web/support /ProHosting24/Web/smokeping /ProHosting24/Web/status
+
++++ www
+probe = Curl60
+menu = prohosting24.de
+title = prohosting24.de
+host = prohosting24.de
+
++++ support
+probe = Curl60
+menu = support.prohosting24.de
+title = support.prohosting24.de
+host = support.prohosting24.de
+
++++ smokeping
+probe = Curl60
+menu = smokeping.prohosting24.de
+title = smokeping.prohosting24.de
+host = smokeping.prohosting24.de
+
++++ status
+probe = Curl60
+menu = status.prohosting24.de
+title = status.prohosting24.de
+host = status.prohosting24.de
+
+++ Services
+menu = Services
+title = Services
+host = /ProHosting24/Services/web
+
++++ web
+probe = Curl60
+menu = web.prohosting24.de
+title = web.prohosting24.de
+host = web.prohosting24.de

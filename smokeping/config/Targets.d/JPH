@@ -1,0 +1,64 @@
++ JPH
+menu = Jugendpresse Hessen
+title = Jugendpresse Hessen
+probe = Curl300
+
+++ Websites
+menu = Websites
+title = Jugendpresse Hessen Websites
+host = /JPH/Websites/jphev /JPH/Websites/www /JPH/Websites/cloud /JPH/Websites/szw /JPH/Websites/szw-support
+
++++ www
+host = jugendpresse-hessen.de
+follow_redirects = yes
+include_redirects = yes
+
++++ jphev
+host = jphev.de
+follow_redirects = yes
+include_redirects = yes
+
++++ drive
+host = drive.jphev.de
+title = drive.jphev.de
+follow_redirects = yes
+include_redirects = yes
+
++++ cloud
+host = cloud.jphev.de
+title = cloud.jphev.de (Nextcloud @ all-inc.com)
+follow_redirects = yes
+include_redirects = yes
+
++++ szw
+host = szw-hessen.de
+title = szw-hessen.de (WordPress)
+follow_redirects = yes
+include_redirects = yes
+
++++ szw-support
+host = support.szw-hessen.de
+title = support.szw-hessen.de (Zammad)
+follow_redirects = yes
+include_redirects = yes
+
+++ Server
+menu = Server
+title = Jugendpresse Hessen e.V. Server
+probe = FPing60
+host = /JPH/Server/mail /JPH/Server/drive
+
++++ Aggregated
+menu = Servers Aggregated
+title = Servers Aggregated
+host = /JPH/Server/mail /JPH/Server/drive
+
++++ drive
+menu = drive.jphev.de
+title = drive.jphev.de
+host = drive.jphev.de
+
++++ mail
+menu = mail.jphev.de
+title = mail.jphev.de
+host = mail.jphev.de

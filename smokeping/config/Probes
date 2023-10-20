@@ -73,6 +73,12 @@ step = 60
 pings = 5
 timeout = 20
 
+++Curl60t3
+forks = 20
+step = 60
+pings = 3
+timeout = 20
+
 ++Curl10
 forks = 20
 step = 10

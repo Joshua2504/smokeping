@@ -14,6 +14,7 @@ services:
     volumes:
       - ./smokeping/config:/config
       - ./smokeping/data:/data
+      - ../logs/smokeping/apache2:/var/log/apache2
     ports:
-      - 8182:80
+      - 22002:80
     restart: always

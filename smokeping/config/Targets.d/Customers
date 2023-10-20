@@ -1,0 +1,24 @@
++ Customers
+menu = Customers
+title = Customers
+
+++ Zaeng1iesh
+menu = Yasar
+title = Yasar
+#slaves = smokeping-slave-tobias
+
++++ production
+menu = production
+title = production
+
+++++ ping
+probe = FPing60
+menu = yasarbonus.com FPing60
+title = yasarbonus.com FPing60
+host = yasarbonus.com
+
+++++ curl10
+probe = Curl10
+menu = yasarbonus.com Curl10
+title = yasarbonus.com Curl10
+host = yasarbonus.com

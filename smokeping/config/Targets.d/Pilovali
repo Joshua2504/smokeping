@@ -2,7 +2,11 @@
 menu = Pilovali
 title = Pilovali
 probe = FPing120
-slaves = smokeping-home
+
+++ Aggregated
+menu = Aggregated
+title = Pilovali Aggregated
+host = /Pilovali/pilo-house /Pilovali/pilo-mother /Pilovali/pilo-dad /Pilovali/pilo-webbox /Pilovali/pilo-citradio-azura
 
 ++ pilo-house
 menu = House (T-Mobile)
@@ -15,51 +19,16 @@ title = Mother (KPN)
 host = s6.pilovali.nl
 
 ++ pilo-dad
-menu = Dad (T-Mobile)
-title = Dad (T-Mobile)
+menu = S2 House (T-Mobile)
+title = S2 House (T-Mobile)
 host = s2.pilovali.nl
 
 ++ pilo-webbox
-menu = webbox.pilo.ovh (buyVM)
-title = webbox.pilo.ovh (buyVM)
+menu = Webbox (Hetzner)
+title = webbox.pilo.ovh (Hetzner)
 host = webbox.pilo.ovh
 
 ++ pilo-citradio-azura
-menu = CITRadio Azura (Hetzner)
+menu = CITRadio (Hetzner)
 title = CITRadio Azura (Hetzner)
 host = azura.citradio.net
-
-++ pilo-vpn-sg2
-menu = VPN SG2 (OVH SGP)
-title = VPN SG2 (OVH SGP)
-host = sgp2.pilovali.nl
-
-++ pilo-vpn-nl
-menu = VPN NL (Dronten Liteserver)
-title = VPN NL (Dronten Liteserver)
-host = moieem.jarno.pro
-
-++ pilo-vpn-gra
-menu = VPN FR (OVH GRA)
-title = VPN FR (OVH GRA)
-host = gra.pilovali.nl
-
-++ pilo-vpn-free-gra
-menu = VPN FR FREE (OVH GRA)
-title = VPN FR FREE (OVH GRA)
-host = 137.74.174.90
-
-++ pilo-converter-1
-menu = Converter 1 (FTH)
-title = Converter 1 (FTH)
-host = 103.153.157.4
-
-++ pilo-converter-2
-menu = Converter 2 (FTH)
-title = Converter 2 (FTH)
-host = 103.153.157.8
-
-++ pilo-converter-3
-menu = Converter 3 (FTH)
-title = Converter 3 (FTH)
-host = 188.165.49.104
