@@ -5,7 +5,7 @@ title = Customers
 ++ Zaeng1iesh
 menu = Yasar
 title = Yasar
-#slaves = smokeping-slave-tobias
+slaves = jph
 
 +++ production
 menu = production
