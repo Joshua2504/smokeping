@@ -15,10 +15,10 @@ title = production
 probe = FPing60
 menu = yasarbonus.com FPing60
 title = yasarbonus.com FPing60
-host = yasarbonus.com
+host = https://yasarbonus.com
 
 ++++ curl10
 probe = Curl10
 menu = yasarbonus.com Curl10
 title = yasarbonus.com Curl10
-host = yasarbonus.com
+host = https://yasarbonus.com
