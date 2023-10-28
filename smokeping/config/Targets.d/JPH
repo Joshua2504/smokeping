@@ -2,6 +2,52 @@
 menu = Jugendpresse Hessen
 title = Jugendpresse Hessen
 probe = Curl300
+slaves = jph
+
+++ Office
+menu = Office
+title = Office
+probe = FPing60
+
++++ Brother-MFC-J6510DW
+menu = Brother MFC-J6510DW
+title = Brother MFC-J6510DW
+host = 10.11.12.59
+
++++ DiskStation
+menu = DiskStation
+title = DiskStation
+host = 10.11.12.43
+
++++ Heisenberg
+menu = Heisenberg
+title = Heisenberg
+host = 10.11.12.2
+
++++ HueBridge
+menu = HueBridge
+title = HueBridge
+host = 10.11.12.52
+
++++ iLo
+menu = iLo
+title = iLo
+host = 10.11.12.13
+
++++ cam1
+menu = cam1
+title = cam1
+host = 10.11.12.30
+
++++ lostdata
+menu = lostdata
+title = lostdata
+host = 10.11.12.40
+
++++ nuc1
+menu = nuc1
+title = nuc1
+host = 10.11.12.38
 
 ++ Websites
 menu = Websites
