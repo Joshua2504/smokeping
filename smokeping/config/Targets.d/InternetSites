@@ -125,7 +125,7 @@ title = google.de
 host = google.de
 
 ++ gamigo
-menu Google
+menu = de.gamigo.com
 title = de.gamigo.com
 host = de.gamigo.com
 
