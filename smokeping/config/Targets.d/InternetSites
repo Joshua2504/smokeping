@@ -124,6 +124,11 @@ menu = Google
 title = google.de
 host = google.de
 
+++ gamigo
+menu Google
+title = de.gamigo.com
+host = de.gamigo.com
+
 + Europe
 menu = Europe
 title = European Connectivity
