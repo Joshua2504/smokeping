@@ -6,7 +6,7 @@ services:
     labels:
       - "com.centurylinklabs.watchtower.enable=true"
     container_name: smokeping
-    hostname: smokeping
+    hostname: Falkenstein
     environment:
       - PUID=1000
       - PGID=1000

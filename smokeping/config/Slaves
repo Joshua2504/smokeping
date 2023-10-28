@@ -18,9 +18,13 @@ display_name=Bad Soden-Salmuenster
 color=ff00ff
 
 +jph
-display_name=Frankfurt JPH Office
+display_name=Frankfurt-Enkheim
 color=ff00ff
 
 +knight
 display_name=Bad Soden-Salmünster
 color=00ff00
+
++joshua-macbook
+display_name=MB Mobile
+color=008000
