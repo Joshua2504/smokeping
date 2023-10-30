@@ -5,13 +5,13 @@ title = firstcolo GmbH
 ++ firstcolonet
 menu = firstcolo.net
 title = firstcolo.net
-host = firstcolo.net
 probe = Curl60
+host = firstcolo.net
 
 ++ firstcolostatus
 menu = fc-status.net
 title = fc-status.net
-host = fc-status.net
 probe = Curl60
+host = fc-status.net
 
 
