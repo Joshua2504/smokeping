@@ -9,6 +9,16 @@ menu = Office
 title = Office
 probe = FPing60
 
++++ cam1
+menu = cam1
+title = cam1
+host = 10.11.12.30
+
++++ cam2
+menu = cam2
+title = cam2
+host = 10.11.12.45
+
 +++ Brother-MFC-J6510DW
 menu = Brother MFC-J6510DW
 title = Brother MFC-J6510DW
@@ -33,11 +43,6 @@ host = 10.11.12.52
 menu = iLo
 title = iLo
 host = 10.11.12.13
-
-+++ cam1
-menu = cam1
-title = cam1
-host = 10.11.12.30
 
 +++ lostdata
 menu = lostdata
