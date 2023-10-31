@@ -9,6 +9,12 @@ menu = Office
 title = Office
 probe = FPing60
 
++++ internet
+menu = Internet Connection
+title = Internet Connection
+host = jphev.dynv6.net
+slaves = knight 
+
 +++ cam1
 menu = cam1
 title = cam1
