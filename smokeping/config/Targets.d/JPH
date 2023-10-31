@@ -54,6 +54,26 @@ menu = nuc1
 title = nuc1
 host = 10.11.12.38
 
++++ tobias-mbp
+menu = Tobias MBP
+title = Tobias MBP
+host = 10.11.12.20
+
++++ tobias-iphone
+menu = Tobias iPhone
+title = Tobias iPhone
+host = 10.11.12.32
+
++++ joshua-mba
+menu = Joshua MBA
+title = Joshua MBA
+host = 10.11.12.42
+
++++ joshua-iphone
+menu = Joshua iPhone
+title = Joshua iPhone
+host = 10.11.12.29
+
 ++ Websites
 menu = Websites
 title = Jugendpresse Hessen Websites
