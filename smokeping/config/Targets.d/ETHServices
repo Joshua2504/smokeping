@@ -1,0 +1,21 @@
++ ETH-Services
+menu = ETH-Services
+title = ETH-Services
+probe = Curl60
+
+++ Web
+menu = Web
+title = Web
+host = /ETH-Services/Web/www /ETH-Services/Web/panel /ETH-Services/Web/status /ETH-Services/Web/hyperglass
+
++++ www
+host = www.eth-services.de
+
++++ panel
+host = panel.eth-services.de
+
++++ status
+host = status.eth-services.de
+
++++ hyperglass
+host = hyperglass.eth-services.de
