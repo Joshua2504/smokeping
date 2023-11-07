@@ -11,14 +11,20 @@ slaves = jph knight joshua-macbook oracle-ffm
 
 ++ knight
 probe = FPing10
-menu = DE knight
-title = DE knight
+menu = DE Knight
+title = DE Knight
 host = home.tobiassachs.de
 
 ++ knight-FPing4
 probe = FPing4
 menu = DE knight-FPing4
 title = DE knight FPing4
+host = home.tobiassachs.de
+
+++ knight-traceroute
+probe = Traceroute60
+menu = DE Knight traceroute
+title = DE Knight traceroute
 host = home.tobiassachs.de
 
 ++ amir
