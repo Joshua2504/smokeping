@@ -3,25 +3,17 @@ menu = firstcolo GmbH
 title = firstcolo GmbH
 
 ++ firstcolonet
-menu = firstcolo.net
-title = firstcolo.net
 probe = Curl60
 host = firstcolo.net
 
 ++ firstcolostatus
-menu = fc-status.net
-title = fc-status.net
 probe = Curl60
 host = fc-status.net
 
 ++ smokeping
-menu = smokeping.accelerated.de
-title = smokeping.accelerated.de
 probe = Curl300
 host = smokeping.accelerated.de
 
 ++ lg
-menu = lg.first-colo.net
-title = lg.first-colo.net
 probe = Curl300
 host = lg.first-colo.net
