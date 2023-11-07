@@ -1,0 +1,18 @@
++ IPP
+menu = IP-Projects GmbH & Co KG
+title = IP-Projects GmbH & Co KG
+probe = Curl300
+
+++ Web
+menu = Web
+title = Web
+host = /IPP/Web/www /IPP/Web/blog /IPP/web/status
+
++++ www
+host = ip-projects.de
+
++++ blog
+host = blog.ip-projects.de
+
++++ status
+host = status.ip-projects.de
