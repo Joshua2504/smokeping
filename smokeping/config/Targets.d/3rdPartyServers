@@ -1,9 +1,3 @@
 + 3rd-party-Servers
 menu = 3rd Party Servers
 title = 3rd Party Servers
-
-++ knight-de-ovh
-probe = FPing120
-menu = Knight DE OVH (Limburg)
-title = Knight DE OVH (Limburg)
-host = tobiassachs.de
