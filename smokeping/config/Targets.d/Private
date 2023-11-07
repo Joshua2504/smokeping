@@ -22,7 +22,7 @@ title = DE knight FPing4
 host = home.tobiassachs.de
 
 ++ knight-traceroute
-probe = Traceroute60
+probe = TraceroutePing60
 menu = DE Knight traceroute
 title = DE Knight traceroute
 desthost = home.tobiassachs.de
