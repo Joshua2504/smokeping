@@ -25,7 +25,7 @@ host = home.tobiassachs.de
 probe = TraceroutePing60
 menu = DE Knight traceroute
 title = DE Knight traceroute
-host = smokeping.treudler.net
+host = home.tobiassachs.de
 desthost = home.tobiassachs.de
 
 ++ amir
