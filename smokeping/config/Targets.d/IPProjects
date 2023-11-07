@@ -1,7 +1,7 @@
 + IPProjects
 menu = IP-Projects GmbH Co KG
 title = IP-Projects GmbH Co KG
-probe = Curl300
+probe = Curl60
 
 ++ Web
 menu = Web
