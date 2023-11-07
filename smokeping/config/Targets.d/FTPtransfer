@@ -1,0 +1,6 @@
++ FTPtransfer
+menu = FTPtransfer Speedtest
+title = FTPtransfer Speedtest
+
+++ dlptest
+host = ftp.dlptest.com
