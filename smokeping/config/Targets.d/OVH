@@ -1,7 +1,7 @@
 + OVH
 menu = OVH SAS
 title = OVH SAS
-probe = FPing300
+probe = FPing120
 
 ++ Aggregated-Smokeping
 menu = OVH Smokeping Aggregated
