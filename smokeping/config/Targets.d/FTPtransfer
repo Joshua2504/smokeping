@@ -4,3 +4,4 @@ title = FTPtransfer Speedtest
 
 ++ dlptest
 host = ftp.dlptest.com
+username = dlpuser
