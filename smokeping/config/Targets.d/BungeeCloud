@@ -24,3 +24,16 @@ host = plesk.bungeecloud.org
 
 +++ web02bungeecloudorg
 host = web02.bungeecloud.org
+
++++ pro02bungeecloudorg
+host = prox02.bungeecloud.org:8006
+
++++ webmailbungeecloudorg
+host = webmail.bungeecloud.org
+
++++ cdnbungeecloudorg
+host = cdn.bungeecloud.org
+
++++ statsbungeecloudorg
+host = stats.bungeecloud.org
+
