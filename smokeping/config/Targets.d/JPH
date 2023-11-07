@@ -113,12 +113,6 @@ title = szw-hessen.de (WordPress)
 follow_redirects = yes
 include_redirects = yes
 
-+++ szw-support
-host = support.szw-hessen.de
-title = support.szw-hessen.de (Zammad)
-follow_redirects = yes
-include_redirects = yes
-
 ++ Server
 menu = Server
 title = Jugendpresse Hessen e.V. Server
