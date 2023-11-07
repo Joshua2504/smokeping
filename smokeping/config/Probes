@@ -49,7 +49,7 @@ minttl = 11
 pings = 5
 wait = 3
 
-++ Traceroute60
+++ TraceroutePing60
 step = 60
 
 
