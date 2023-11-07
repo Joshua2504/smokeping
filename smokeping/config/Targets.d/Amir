@@ -51,11 +51,6 @@ menu = 9 NL, Amsterdam (ColoCrossing)
 title = 9 NL, Amsterdam (ColoCrossing)
 host = ams01.amir.ovh
 
-+++ 10
-menu = 10 US, Texas (Data Ideas)
-title = 10 US, Texas (Data Ideas)
-host = dfw.amir.ovh
-
 +++ 11
 menu = 11 DE, Frankfurt (FullTimeHosting)
 title = 11 DE, Frankfurt (FullTimeHosting)
@@ -86,17 +81,7 @@ menu = 16 NL, Haarlem (LLHost)
 title = 16 NL, Haarlem (LLHost)
 host = hlm.207740.xyz
 
-+++ 17
-menu = 17 NL, Dronten (Bakker IT)
-title = 17 NL, Dronten (Bakker IT)
-host = dro.207740.xyz
-
 +++ 18
 menu = 18 RO, Bucharest (LayerBridge)
 title = 18 RO, Bucharest (LayerBridge)
 host = buh.207740.xyz
-
-+++ 19
-menu = 19 NO, Sandefjord (Joseph Farnell)
-title = 19 NO, Sandefjord (Joseph Farnell)
-host = osl.207740.xyz
