@@ -34,14 +34,18 @@ format = Median RTT %f seconds
 
 + overview
 
-width = 600
-height = 50
+#width = 600
+width = 1000
+#height = 50
+height = 80
 range = 24h
 
 + detail
 
-width = 800
-height = 200
+#width = 800
+width = 1000
+#height = 200
+height = 300
 unison_tolerance = 2
 
 "Last 10 Minutes"    10m
@@ -52,10 +56,10 @@ unison_tolerance = 2
 "Last 7 Days"    7d
 "last 30 Days"	30d
 "Last 360 Days"   360d
+"Last 720 Days" 720d
 
 #+ hierarchies
 #++ owner
 #title = Host Owner
 #++ location
 #title = Location
-
