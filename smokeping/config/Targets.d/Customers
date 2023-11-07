@@ -11,12 +11,6 @@ slaves = jph oracle-ffm
 menu = production
 title = production
 
-++++ ping
-probe = FPing60
-menu = yasarbonus.com FPing60
-title = yasarbonus.com FPing60
-host = yasarbonus.com
-
 ++++ curl10
 probe = Curl10
 menu = yasarbonus.com Curl10
@@ -32,14 +26,20 @@ slaves = jph oracle-ffm
 menu = production
 title = production
 
-++++ FPing60
-probe = FPing60
-menu = cor-forum.de FPing60
-title = cor-forum.de FPing60
+++++ www
+probe = Curl60
+menu = cor-forum.de Curl60
+title = cor-forum.de Curl60
 host = cor-forum.de
 
-++++ curl10
-probe = Curl10
-menu = cor-forum.de Curl10
-title = cor-forum.de Curl10
-host = cor-forum.de
+++++ maps
+probe = Curl60
+menu = maps.cor-forum.de Curl60
+title = maps.cor-forum.de Curl60
+host = maps.cor-forum.de
+
+++++ api
+probe = Curl60
+menu = api.cor-forum.de Curl60
+title = api.cor-forum.de Curl60
+host = api.cor-forum.de
