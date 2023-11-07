@@ -104,8 +104,8 @@ timeout = 15 # mandatory
 # The following variables can be overridden in each target section
 localaddr = 127.0.0.1
 passive = yes
-#password = test-password
+# password = test-password
 pings = 3
 port = 21
-timeout = 10
+# timeout = 10
 username = dlpuser
