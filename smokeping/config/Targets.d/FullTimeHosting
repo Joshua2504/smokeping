@@ -9,41 +9,25 @@ title = FTH Aggregated
 host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs1
 
 ++ fth-edge-de1
-menu = fth-edge-de1
-title = fth-edge-de1
 host = edge-de1.fulltimehosting.net
 
 ++ fth-eu-gra2
-menu = fth-eu-gra2
-title = fth-eu-gra2
 host = eu-gra2.fulltimehosting.net
 
 ++ fth-eu-de4
-menu = fth-eu-de4
-title = fth-eu-de4
 host = eu-de4.fulltimehosting.net
 
 ++ fth-eu-de20
-menu = fth-eu-de20
-title = fth-eu-de20
 host = eu-de20.fulltimehosting.net
 
 ++ fth-eu-de21
-menu = fth-eu-de21
-title = fth-eu-de21
 host = eu-de21.fulltimehosting.net
 
 ++ fth-eu-de24
-menu = fth-eu-de24
-title = fth-eu-de24
 host = eu-de24.fulltimehosting.net
 
 ++ fth-eu-hel1
-menu = fth-eu-hel1
-title = fth-eu-hel1
 host = eu-hel1.fulltimehosting.net
 
 ++ fth-ca-bhs1
-menu = fth-ca-bhs1
-title = fth-ca-bhs1
 host = ca-bhs1.fulltimehosting.net
