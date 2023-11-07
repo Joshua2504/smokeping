@@ -6,7 +6,10 @@ probe = Curl300
 ++ Web
 menu = Web
 title = Web
-host = /IPP/Web/www
+host = /IPP/Web/www /IPP/Web/status
 
 +++ www
 host = ip-projects.de
+
++++ status
+host = status.ip-projects.de
