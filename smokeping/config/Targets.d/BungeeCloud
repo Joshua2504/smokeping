@@ -8,31 +8,19 @@ title = BungeeCloud Services
 probe = Curl120
 
 +++ bungeecloudorg
-menu = bungeecloud.org
-title = bungeecloud.org
 host = bungeecloud.org
 
 +++ gwbungeecloudorg
-menu = gw.bungeecloud.org
-title = gw.bungeecloud.org
 host = gw.bungeecloud.org
 
 +++ shopbungeecloudorg
-menu = shop.bungeecloud.org
-title = shop.bungeecloud.org
 host = shop.bungeecloud.org
 
 +++ vmbungeecloudorg
-menu = vm.bungeecloud.org
-title = vm.bungeecloud.org
 host = vm.bungeecloud.org
 
 +++ pleskbungeecloudorg
-menu = plesk.bungeecloud.org
-title = plesk.bungeecloud.org
 host = plesk.bungeecloud.org
 
 +++ web02bungeecloudorg
-menu = web02.bungeecloud.org
-title = web02.bungeecloud.org
 host = web02.bungeecloud.org
