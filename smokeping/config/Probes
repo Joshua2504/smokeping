@@ -55,7 +55,7 @@ step = 60
 
 +Curl
 binary = /usr/bin/curl
-agent = User-Agent: treudler.net/smokeping Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6c
+agent = User-Agent: smokeping.treudler.net Lynx/2.8.4rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.6c
 offset = 50%
 urlformat = https://%host%/ # mandatory
 
