@@ -1,12 +1,17 @@
 + OVH
 menu = OVH SAS
 title = OVH SAS
-probe = FPing120
+probe = FPing300
 
 ++ Aggregated-Smokeping
 menu = OVH Smokeping Aggregated
 title = OVH Smokeping Aggregated
 host = /OVH/fra1-lim /OVH/lil1-rbx /OVH/lil2-gra /OVH/lon1-eri /OVH/sxb1-sbg /OVH/waw1-oza /OVH/pdx1-hil /OVH/was1-vin /OVH/ymq1-bhs /OVH/sin-sgcs2 /OVH/syd-sy2 /OVH/bom1-ynm1
+
+++ Aggregated-Proof
+menu = OVH Proof Aggregated
+title = OVH Proof Aggregated
+host = /OVH/proof-vin  /OVH/proof-syd /OVH/proof-sgp /OVH/proof-sbg /OVH/proof-rbx /OVH/proof-hil /OVH/proof-gra /OVH/proof-eri /OVH/proof-bom /OVH/proof-bhs
 
 ++ Aggregated-LG
 menu = OVH LG Aggregated
@@ -41,25 +46,81 @@ host = syd-sy2.smokeping.ovh.net
 ++ bom1-ynm1
 host = bom1-ynm1.smokeping.ovh.net
 
+++ proof
+probe = Curl300
+host = proof.ovh.net
+
+++ proof-vin
+probe = Curl300
+host = vin.proof.ovh.net
+
+++ proof-syd
+probe = Curl300
+host = syd.proof.ovh.net
+
+++ proof-sgp
+probe = Curl300
+host = sgp.proof.ovh.net
+
+++ proof-sbg
+probe = Curl300
+host = sbg.proof.ovh.net
+
+++ proof-rbx
+probe = Curl300
+host = rbx.proof.ovh.net
+
+++ proof-hil
+probe = Curl300
+host = hil.proof.ovh.net
+
+++ proof-gra
+probe = Curl300
+host = gra.proof.ovh.net
+
+++ proof-eri
+probe = Curl300
+host = eri.proof.ovh.net
+
+++ proof-bom
+probe = Curl300
+host = bom.proof.ovh.net
+
+++ proof-bhs
+probe = Curl300
+host = bhs.proof.ovh.net
+
 ++ bhs-lg-ovh-net
+probe = FPing120
 host = bhs.lg.ovh.net
 ++ de1-lg-ovh-net
+probe = FPing120
 host = de1.lg.ovh.net
 ++ gra-lg-ovh-net
+probe = FPing120
 host = gra.lg.ovh.net
 ++ rbx-lg-ovh-net
+probe = FPing120
 host = rbx.lg.ovh.net
 ++ sbg-lg-ovh-net
+probe = FPing120
 host = sbg.lg.ovh.net
 ++ sin1-lg-ovh-net
+probe = FPing120
 host = sin1.lg.ovh.net
 ++ syd1-lg-ovh-net
+probe = FPing120
 host = syd1.lg.ovh.net
 ++ uk1-lg-ovh-net
+probe = FPing120
 host = uk1.lg.ovh.net
 ++ us1-lg-ovh-net
+probe = FPing120
 host = us1.lg.ovh.net
 ++ us2-lg-ovh-net
+probe = FPing120
 host = us2.lg.ovh.net
 ++ waw-lg-ovh-net
+probe = FPing120
 host = waw.lg.ovh.net
+
