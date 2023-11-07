@@ -6,28 +6,25 @@ probe = FPing300
 ++ Websites
 menu = Websites
 title = Deutsche Bahn Websites
+probe = Curl120
 host = /Bahn/Websites/www /Bahn/Websites/reiseauskunft /Bahn/Websites/fahrkarten /Bahn/Websites/assets
 
 +++ www
-probe = Curl120
 host = bahn.de
 follow_redirects = yes
 include_redirects = yes
 
 +++ reiseauskunft
-probe = Curl120
 host = reiseauskunft.bahn.de
 follow_redirects = yes
 include_redirects = yes
 
 +++ fahrkarten
-probe = Curl120
 host = fahrkarten.bahn.de
 follow_redirects = yes
 include_redirects = yes
 
 +++ assets
-probe = Curl120
 host = assets.static-bahn.de
 follow_redirects = yes
 include_redirects = yes
