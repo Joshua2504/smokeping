@@ -89,4 +89,23 @@ step = 10
 pings = 3
 timeout = 3
 
++FTPtransfer
 
+destfile = /smokeping.treudler.net/100Mb.dat
+forks = 1
+min_interval = 1
+mode = put # mandatory
+offset = 10%
+passwordfile = /data/ftpsecret
+srcfile = /data/100Mb.dat # mandatory
+step = 300
+timeout = 15 # mandatory
+
+# The following variables can be overridden in each target section
+localaddr = 127.0.0.1
+passive = yes
+#password = test-password
+pings = 1
+port = 21
+timeout = 10
+username = dlpuser
