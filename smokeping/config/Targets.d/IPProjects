@@ -1,4 +1,4 @@
-+ IPP
++ IPProjects
 menu = IP-Projects GmbH Co KG
 title = IP-Projects GmbH Co KG
 probe = Curl300
@@ -6,7 +6,7 @@ probe = Curl300
 ++ Web
 menu = Web
 title = Web
-host = /IPP/Web/www /IPP/Web/blog /IPP/web/status
+host = /IPProjects/Web/www /IPProjects/Web/blog /IPProjects/web/status
 
 +++ www
 host = ip-projects.de
