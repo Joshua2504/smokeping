@@ -2,19 +2,12 @@
 menu = Servers
 title = Servers
 probe = FPing60
-slaves = smokeping-home
+slaves = jph
 
 ++ Aggregated
 menu = Servers Aggregated
 title = Servers Aggregated
-host = /Servers/uranus /Servers/orakel
+host = /Servers/cax
 
-++ uranus
-menu = uranus.treudler.net
-title = uranus.treudler.net
-host = uranus.treudler.net
-
-++ orakel
-menu = orakel.treudler.net
-title = orakel.treudler.net
-host = orakel.treudler.net
+++ cax
+host = cax.treudler.net
