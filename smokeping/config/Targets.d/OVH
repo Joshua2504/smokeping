@@ -40,10 +40,10 @@ host = pdx1-hil.smokeping.ovh.net
 host = was1-vin.smokeping.ovh.net
 ++ ymq1-bhs
 host = ymq1-bhs.smokeping.ovh.net
-++ sin-sgcs2
-host = sin-sgcs2.smokeping.ovh.net
-++ syd-sy2
-host = syd-sy2.smokeping.ovh.net
+++ sin1-sgcs2
+host = sin1-sgcs2.smokeping.ovh.net
+++ syd1-sy2
+host = syd1-sy2.smokeping.ovh.net
 ++ bom1-ynm1
 host = bom1-ynm1.smokeping.ovh.net
 
