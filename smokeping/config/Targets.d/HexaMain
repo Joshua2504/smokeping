@@ -5,28 +5,17 @@ title = HexaMain
 ++ Web
 menu = Web
 title = Web
+probe = Curl60
 host = /HexaMain/Web/www /HexaMain/Web/helpdesk /HexaMain/Web/chat /HexaMain/Web/status
 
 +++ www
-probe = Curl60
-menu = hexamain.de
-title = hexamain.de
 host = hexamain.de
 
 +++ helpdesk
-probe = Curl60
-menu = helpdesk.hexamain.de
-title = helpdesk.hexamain.de
 host = helpdesk.hexamain.de
 
 +++ chat
-probe = Curl60
-menu = chat.hexamain.de
-title = chat.hexamain.de
 host = chat.hexamain.de
 
 +++ status
-probe = Curl60
-menu = status.hexamain.de
-title = status.hexamain.de
 host = status.hexamain.de
