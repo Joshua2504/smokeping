@@ -27,6 +27,11 @@ slaves = smokeping-google-ams smokeping-hetzner-fsn
 menu = Germans
 title = Germans
 
++++ ElitedomainsDE
+menu = Elitedomains.de
+title = Elitedomains.de
+host = 68.183.243.116
+
 +++ VodafoneDE
 menu = Vodafone
 title = Vodafone
