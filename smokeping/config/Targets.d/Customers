@@ -29,6 +29,8 @@ title = CoR Forum
 slaves = jph oracle-ffm
 
 +++ production
+menu = production
+title = production
 
 ++++ FPing60
 probe = FPing60
