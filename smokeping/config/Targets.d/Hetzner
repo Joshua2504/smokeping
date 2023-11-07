@@ -2,7 +2,6 @@
 menu = Hetzner Online GmbH
 title = Hetzner Online GmbH
 probe = FPing120
-slaves = smokeping-home
 
 ++ Aggregated
 menu = Hetzner Aggregated
