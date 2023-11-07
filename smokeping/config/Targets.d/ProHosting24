@@ -1,11 +1,11 @@
 + ProHosting24
 menu = ProHosting24
 title = ProHosting24
+probe = Curl60
 
 ++ Web
 menu = Web
 title = Web
-probe = Curl60
 host = /ProHosting24/Web/www /ProHosting24/Web/support /ProHosting24/Web/smokeping /ProHosting24/Web/status
 
 +++ www
