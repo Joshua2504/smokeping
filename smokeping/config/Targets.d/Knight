@@ -1,0 +1,26 @@
++ Knight
+menu = Knight
+title = Knights Network
+slaves = jph knight
+
+++ Home
+menu = Home
+title = Home
+probe = FPing4
+host = home.tobiassachs.de
+
+++ Servers
+menu = Servers
+title = Servers
+probe = FPing60
+
+++ Websites
+menu = Websites
+title = Websites
+probe = Curl60
+
++++ tobiassachsde
+host = tobiassachs.de
+
++++ minecraftforum
+host = minecraftforum.de
