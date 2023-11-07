@@ -25,7 +25,7 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/HexaMain
 @include Targets.d/Knight
 @include Targets.d/InternetSites
-@include Targets.d/IPP
+@include Targets.d/IPProjects
 @include Targets.d/JPH
 @include Targets.d/OVH
 @include Targets.d/Pilovali
