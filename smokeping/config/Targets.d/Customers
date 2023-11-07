@@ -5,7 +5,7 @@ title = Customers
 ++ Zaeng1iesh
 menu = Yasar
 title = Yasar
-slaves = jph
+slaves = jph oracle-ffm
 
 +++ production
 menu = production
