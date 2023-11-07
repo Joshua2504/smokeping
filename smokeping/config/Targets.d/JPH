@@ -125,11 +125,7 @@ title = Servers Aggregated
 host = /JPH/Server/mail /JPH/Server/drive
 
 +++ drive
-menu = drive.jphev.de
-title = drive.jphev.de
 host = drive.jphev.de
 
 +++ mail
-menu = mail.jphev.de
-title = mail.jphev.de
 host = mail.jphev.de
