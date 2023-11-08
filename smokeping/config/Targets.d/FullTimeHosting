@@ -38,9 +38,6 @@ host = edge-de1.fulltimehosting.net
 ++ fth-eu-gra2
 host = eu-gra2.fulltimehosting.net
 
-++ fth-eu-de4
-host = eu-de4.fulltimehosting.net
-
 ++ fth-eu-de20
 host = eu-de20.fulltimehosting.net
 
@@ -49,9 +46,6 @@ host = eu-de21.fulltimehosting.net
 
 ++ fth-eu-de24
 host = eu-de24.fulltimehosting.net
-
-++ fth-eu-hel1
-host = eu-hel1.fulltimehosting.net
 
 ++ fth-ca-bhs1
 host = ca-bhs1.fulltimehosting.net
