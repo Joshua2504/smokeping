@@ -8,6 +8,30 @@ menu = FTH Aggregated
 title = FTH Aggregated
 host = /FullTimeHosting/fth-eu-gra2 /FullTimeHosting/fth-edge-de1 /FullTimeHosting/fth-eu-de4 /FullTimeHosting/fth-eu-de20 /FullTimeHosting/fth-eu-de21 /FullTimeHosting/fth-eu-de24 /FullTimeHosting/fth-eu-hel1 /FullTimeHosting/fth-ca-bhs1
 
+++ www
+probe = Curl300
+host = fulltimehosting.net
+
+++ lg
+probe = Curl300
+host = lg.fulltimehosting.net
+
+++ smokeping
+probe = Curl300
+host = smokeping.fulltimehosting.net
+
+++ status
+probe = Curl300
+host = status.fulltimehosting.net
+
+++ panel
+probe = Curl300
+host = panel.fulltimehosting.net
+
+++ community
+probe = Curl300
+host = community.fulltimehosting.net
+
 ++ fth-edge-de1
 host = edge-de1.fulltimehosting.net
 
