@@ -83,7 +83,7 @@ host = 10.11.12.29
 ++ Websites
 menu = Websites
 title = Jugendpresse Hessen Websites
-host = /JPH/Websites/jphev /JPH/Websites/www /JPH/Websites/cloud /JPH/Websites/szw /JPH/Websites/szw-support
+host = /JPH/Websites/jphev /JPH/Websites/www /JPH/Websites/cloud /JPH/Websites/szw
 
 +++ www
 host = jugendpresse-hessen.de
