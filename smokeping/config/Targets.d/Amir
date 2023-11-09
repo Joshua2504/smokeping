@@ -24,7 +24,7 @@ probe = FPing120
 +++ Aggregated
 menu = Servers Aggregated
 title = Servers Aggregated
-host = /Amir/server/5 /Amir/server/6 /Amir/server/7 /Amir/server/8 /Amir/server/9 /Amir/server/10 /Amir/server/11 /Amir/server/12 /Amir/server/13 /Amir/server/14 /Amir/server/15 /Amir/server/16 /Amir/server/17 /Amir/server/18 /Amir/server/19
+host = /Amir/server/5 /Amir/server/6 /Amir/server/7 /Amir/server/8 /Amir/server/9 /Amir/server/11 /Amir/server/12 /Amir/server/13 /Amir/server/14 /Amir/server/15 /Amir/server/16 /Amir/server/18 /Amir/server/19
 
 +++ 5
 menu = 5 NL, Amsterdam (HostSailor)
