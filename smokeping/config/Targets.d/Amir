@@ -23,9 +23,9 @@ title = x
 host = as207740.net
 
 ++ server
+probe = FPing120
 menu = Servers
 title = Amir.OVH Servers
-probe = FPing120
 
 +++ Aggregated
 menu = Servers Aggregated
