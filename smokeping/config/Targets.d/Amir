@@ -8,18 +8,12 @@ menu = Websites
 title = Amir.OVH Websites
 
 +++ website
-menu = x
-title = x
 host = amir.ovh
 
 +++ cdn
-menu = x
-title = x
 host = cdn.amir.ovh
 
 +++ as207740
-menu = x
-title = x
 host = as207740.net
 
 ++ server
@@ -63,9 +57,9 @@ title = 11 DE, Frankfurt (FullTimeHosting)
 host = 103.153.157.74
 
 +++ 12
-menu = 12 IT Palermo (Melbicom)
-title = 12 IT, Palermo (Melbicom)
-host = 91.201.67.183
+menu = 12 NL, Amsterdam (iFog)
+title = 12 NL, Amsterdam (iFog)
+host = 193.148.248.35
 
 +++ 13
 menu = 13 DE, Falkenstein (Hetzner)
@@ -83,11 +77,11 @@ title = 15 DE, Frankfurt (iFog)
 host = fra.207740.xyz
 
 +++ 16
-menu = 16 NL, Haarlem (LLHost)
-title = 16 NL, Haarlem (LLHost)
-host = hlm.207740.xyz
+menu = 16 NL, Amsterdam (Bakker-IT)
+title = 16 NL, Amsterdam (Bakker-IT)
+host = ams.207740.xyz
 
 +++ 18
-menu = 18 RO, Bucharest (LayerBridge)
-title = 18 RO, Bucharest (LayerBridge)
-host = buh.207740.xyz
+menu = 18 FR, Tours (Peers-Telecom)
+title = 18 FR, Tours (Peers-Telecom)
+host = tuf.207740.xyz
