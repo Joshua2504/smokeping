@@ -1,11 +1,16 @@
 + Amir
-menu = Amir.OVH
-title = Amir.OVH
+menu = Amir.OVH (AS207740)
+title = Amir.OVH (AS207740)
 
 ++ websites
 probe = Curl300
 menu = Websites
 title = Amir.OVH Websites
+
++++ Aggregated
+menu = Websites Aggregated
+title = Websites Aggregated
+host = /Amir/websites/website /Amir/websites/cdn /Amir/websites/as207740 
 
 +++ website
 host = amir.ovh
