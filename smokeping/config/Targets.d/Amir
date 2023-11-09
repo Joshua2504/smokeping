@@ -8,12 +8,18 @@ menu = Websites
 title = Amir.OVH Websites
 
 +++ website
+menu = x
+title = x
 host = amir.ovh
 
 +++ cdn
+menu = x
+title = x
 host = cdn.amir.ovh
 
 +++ as207740
+menu = x
+title = x
 host = as207740.net
 
 ++ server
