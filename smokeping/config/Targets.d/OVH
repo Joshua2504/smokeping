@@ -7,7 +7,8 @@ slaves = jph oracle-ffm
 ++ Aggregated-Smokeping
 menu = OVH Smokeping Aggregated
 title = OVH Smokeping Aggregated
-host = /OVH/fra1-lim /OVH/lil1-rbx /OVH/lil2-gra /OVH/lon1-eri /OVH/sxb1-sbg /OVH/waw1-oza /OVH/pdx1-hil /OVH/was1-vin /OVH/ymq1-bhs /OVH/sin-sgcs2 /OVH/syd-sy2 /OVH/bom1-ynm1
+host = /OVH/fra1-lim /OVH/lil1-rbx /OVH/lil2-gra /OVH/lon1-eri /OVH/sxb1-sbg /OVH/waw1-oza /OVH/pdx1-hil /OVH/was1-vin /OVH/ymq1-bhs /OVH/sin1-sgcs2 \
+      /OVH/syd1-sy2 /OVH/bom1-ynm1
 
 ++ Aggregated-Proof
 menu = OVH Proof Aggregated
@@ -17,7 +18,8 @@ host = /OVH/proof-vin  /OVH/proof-syd /OVH/proof-sgp /OVH/proof-sbg /OVH/proof-r
 ++ Aggregated-LG
 menu = OVH LG Aggregated
 title = OVH LG Aggregated
-host = /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/uk1-lg-ovh-net /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
+host = /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/uk1-lg-ovh-net \
+      /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
 
 ++ ping-ovh-net
 host = ping.ovh.net
