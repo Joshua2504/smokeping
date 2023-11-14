@@ -21,6 +21,11 @@ title = OVH LG Aggregated
 host = /OVH/bhs-lg-ovh-net /OVH/de1-lg-ovh-net /OVH/gra-lg-ovh-net /OVH/rbx-lg-ovh-net /OVH/sbg-lg-ovh-net /OVH/sin1-lg-ovh-net /OVH/syd1-lg-ovh-net /OVH/uk1-lg-ovh-net \
       /OVH/us1-lg-ovh-net /OVH/us2-lg-ovh-net /OVH/waw-lg-ovh-net 
 
+++ Aggregated-Ripe
+menu = OVH Ripe Aggregated
+title = OVH Ripe Aggregated
+host = /OVH/au-syd-as16276 /OVH/ca-bha-as16276 /OVH/de-lml-as16276 /OVH/fr-grv-as16276 /OVH/pl-ozm-as16276 /OVH/sg-sin-as16276 /OVH/us-wvj-as16276
+
 ++ ping-ovh-net
 host = ping.ovh.net
 
@@ -126,4 +131,25 @@ host = us2.lg.ovh.net
 ++ waw-lg-ovh-net
 probe = FPing120
 host = waw.lg.ovh.net
+
+++ au-syd-as16276
+host = au-syd-as16276.anchors.atlas.ripe.net
+
+++ ca-bha-as16276
+host = ca-bha-as16276.anchors.atlas.ripe.net
+
+++ de-lml-as16276
+host = de-lml-as16276.anchors.atlas.ripe.net
+
+++ fr-grv-as16276
+host = fr-grv-as16276.anchors.atlas.ripe.net
+
+++ pl-ozm-as16276
+host = pl-ozm-as16276.anchors.atlas.ripe.net
+
+++ sg-sin-as16276
+host = sg-sin-as16276.anchors.atlas.ripe.net
+
+++ us-wvj-as16276
+host = us-wvj-as16276.anchors.atlas.ripe.net
 
