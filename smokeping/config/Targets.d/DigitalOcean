@@ -2,15 +2,15 @@
 menu = DigitalOcean
 title = DigitalOcean
 
-++ Aggregated-Ripe
+++ Ripe
+menu = Ripe Probes
+title = DigitalOcean Ripe Probes
+
+++ Ripe-Aggregated
 menu = Aggregated Ripe Probes
 title = Aggregated Ripe Probes
 host = /Digitalocean/Ripe/ca-tor-as14061 /Digitalocean/Ripe/de-fra-as14061 /Digitalocean/Ripe/in-blr-as14061 /Digitalocean/Ripe/nl-ams-as14061 \
       /Digitalocean/Ripe/sg-sin-as14061 /Digitalocean/Ripe/uk-lon-as14061 /Digitalocean/Ripe/us-nyc-as14061 /Digitalocean/Ripe/us-sjc-as14061 
-
-++ Ripe
-menu = Ripe Probes
-title = DigitalOcean Ripe Probes
 
 +++ ca-tor-as14061
 host = ca-tor-as14061.anchors.atlas.ripe.net
