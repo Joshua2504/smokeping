@@ -2,75 +2,36 @@
 menu = DigitalOcean
 title = DigitalOcean
 
-++ Aggregated
-menu = Aggregated
-title = DigitalOcean Aggregated
-host = /Digitalocean/DO-fra1 /Digitalocean/DO-lon1 /Digitalocean/DO-blr1 /Digitalocean/DO-tor1 \
-/Digitalocean/DO-nyc1 /Digitalocean/DO-nyc2 /Digitalocean/DO-nyc3 /Digitalocean/DO-ams2 \
-/Digitalocean/DO-ams3 /Digitalocean/DO-sfo1 /Digitalocean/DO-sfo2 /Digitalocean/DO-sfo3 \
-/Digitalocean/DO-sgp1
+++ Aggregated-Ripe
+menu = Aggregated Ripe Probes
+title = Aggregated Ripe Probes
+host = /Digitalocean/Ripe/ca-tor-as14061 /Digitalocean/Ripe/de-fra-as14061 /Digitalocean/Ripe/in-blr-as14061 /Digitalocean/Ripe/nl-ams-as14061 \
+      /Digitalocean/Ripe/sg-sin-as14061 /Digitalocean/Ripe/uk-lon-as14061 /Digitalocean/Ripe/us-nyc-as14061 /Digitalocean/Ripe/us-sjc-as14061 
 
-++ DO-fra1
-title = speedtest-fra1.digitalocean.com
-menu = fra1
-host = speedtest-fra1.digitalocean.com
+++ Ripe
+menu = Ripe Probes
+title = DigitalOcean Ripe Probes
 
-++ DO-lon1
-title = speedtest-lon1.digitalocean.com
-menu = lon1
-host = speedtest-lon1.digitalocean.com
++++ ca-tor-as14061
+host = ca-tor-as14061.anchors.atlas.ripe.net
 
-++ DO-blr1
-title = speedtest-blr1.digitalocean.com
-menu = blr1
-host = speedtest-blr1.digitalocean.com
++++ de-fra-as14061
+host = de-fra-as14061.anchors.atlas.ripe.net
 
-++ DO-tor1
-title = speedtest-tor1.digitalocean.com
-menu = tor1
-host = speedtest-tor1.digitalocean.com
++++ in-blr-as14061
+host = in-blr-as14061.anchors.atlas.ripe.net
 
-++ DO-nyc1
-title = speedtest-nyc1.digitalocean.com
-menu = nyc1
-host = speedtest-nyc1.digitalocean.com
++++ nl-ams-as14061
+host = nl-ams-as14061.anchors.atlas.ripe.net
 
-++ DO-nyc2
-title = speedtest-nyc2.digitalocean.com
-menu = nyc2
-host = speedtest-nyc2.digitalocean.com
++++ sg-sin-as14061
+host = sg-sin-as14061.anchors.atlas.ripe.net
 
-++ DO-nyc3
-title = speedtest-nyc3.digitalocean.com
-menu = nyc3
-host = speedtest-nyc3.digitalocean.com
++++ uk-lon-as14061
+host = uk-lon-as14061.anchors.atlas.ripe.net
 
-++ DO-ams2
-title = speedtest-ams2.digitalocean.com
-menu = ams2
-host = speedtest-ams2.digitalocean.com
++++ us-nyc-as14061
+host = us-nyc-as14061.anchors.atlas.ripe.net
 
-++ DO-ams3
-title = speedtest-ams3.digitalocean.com
-menu = ams3
-host = speedtest-ams3.digitalocean.com
-
-++ DO-sfo1
-title = speedtest-sfo1.digitalocean.com
-menu = sfo1
-host = speedtest-sfo1.digitalocean.com
-
-++ DO-sfo2
-title = speedtest-sfo2.digitalocean.com
-menu = sfo2
-host = speedtest-sfo2.digitalocean.com
-
-++ DO-sfo3
-title = speedtest-sfo3.digitalocean.com
-menu = sfo3
-host = speedtest-sfo3.digitalocean.com
-
-++ DO-sgp1
-title = speedtest-sgp1.digitalocean.com
-menu = sgp1
-host = speedtest-sgp1.digitalocean.com
++++ us-sjc-as14061
+host = us-sjc-as14061.anchors.atlas.ripe.net
