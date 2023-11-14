@@ -6,7 +6,7 @@ title = DigitalOcean
 menu = Ripe Probes
 title = DigitalOcean Ripe Probes
 
-++ Ripe-Aggregated
++++ Ripe-Aggregated
 menu = Aggregated Ripe Probes
 title = Aggregated Ripe Probes
 host = /Digitalocean/Ripe/ca-tor-as14061 /Digitalocean/Ripe/de-fra-as14061 /Digitalocean/Ripe/in-blr-as14061 /Digitalocean/Ripe/nl-ams-as14061 \
