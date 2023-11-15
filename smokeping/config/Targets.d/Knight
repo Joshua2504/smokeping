@@ -1,7 +1,7 @@
 + Knight
 menu = Knight
 title = Knights Network
-slaves = jph knight
+slaves = jph oracle-ffm knight
 
 ++ Home
 menu = Home
