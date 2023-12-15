@@ -27,6 +27,11 @@ slaves = smokeping-google-ams smokeping-hetzner-fsn
 menu = Germans
 title = Germans
 
++++ MemoriaPhotoart
+menu = memoria-photoart.de
+title = memoria-photoart.de
+host = memoria-photoart.de
+
 +++ ElitedomainsDE
 menu = Elitedomains.de
 title = Elitedomains.de
