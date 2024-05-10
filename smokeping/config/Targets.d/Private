@@ -17,7 +17,7 @@ host = home.tobiassachs.de
 
 ++ knight-FPing4
 probe = FPing4
-menu = DE knight-FPing4
+menu = DE knight FPing4
 title = DE knight FPing4
 host = home.tobiassachs.de
 
@@ -27,6 +27,12 @@ menu = DE Knight traceroute
 title = DE Knight traceroute
 host = home.tobiassachs.de
 desthost = home.tobiassachs.de
+
+++ aventix-FPing4
+probe = FPing4
+menu = DE Aventix FPing4
+title = DE Aventix FPing4
+host = melvinjoshua.dynv6.net
 
 ++ amir
 probe = FPing10
