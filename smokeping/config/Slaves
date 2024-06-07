@@ -1,34 +1,22 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
 
-+smokeping-home
-display_name=Frankfurt (Starlink)
-color=ff5733
-
-+smokeping-google-ams
-display_name=Google Cloud Amsterdam
-color=0000ff
-
-+smokeping-hetzner-fsn
-display_name=Hetzner Falkenstein
-color=00ff00
-
-+smokeping-slave-tobias-home-bss
-display_name=Bad Soden-Salmuenster
-color=ff00ff
-
+# JPH BÜro (nuc1)
 +jph
 display_name=Frankfurt Enkheim
 color=ff00ff
 
-+knight
+# Tobi zu Hause
++knight-home-bss
 display_name=Bad Soden-Salmünster
 color=00ff00
 
+# Joshua's Mobiler Smokeping Slave auf dem MacBook
 +joshua-macbook
 display_name=MB Mobile
 color=008000
 
+# Oracle Cloud Frankfurt Free Tier
 +oracle-ffm
 display_name=Frankfurt Oracle Cloud
 color=ff5733

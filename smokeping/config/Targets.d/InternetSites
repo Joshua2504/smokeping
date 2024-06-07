@@ -7,21 +7,13 @@ probe = Curl300
 menu = CoR Forum
 title = CoR Forum
 probe = Curl120
-host = www.cor-forum.de
-
-#++ cor-forum-Curl10
-#menu = CoR Forum Curl10
-#title = CoR Forum Curl10
-#probe = Curl10
-#host = www.cor-forum.de
-#slaves = smokeping-google-ams smokeping-hetzner-fsn
+host = cor-forum.de
 
 ++ minecraftforum-Curl10
 menu = minecraftforum.de Curl10
 title = minecraftforum.de Curl10
 probe = Curl10
 host = minecraftforum.de
-slaves = smokeping-google-ams smokeping-hetzner-fsn
 
 ++ Germany
 menu = Germans
@@ -40,52 +32,52 @@ host = elitedomains.de
 +++ SajakSchluesseldienst
 menu = Sajak Schlüsseldienst
 title = Sajak Schlüsseldienst
-host = www.sajak-schluesseldienst.de
+host = sajak-schluesseldienst.de
 
 +++ VodafoneDE
 menu = Vodafone
 title = Vodafone
-host = www.vodafone.de
+host = vodafone.de
 
 +++ TelefonicaDE
 menu = Telefonica
 title = Telefonica
-host = www.telefonica.de
+host = telefonica.de
 
 +++ TelekomDE
 menu = Telekom
 title = Telekom
-host = www.telekom.de
+host = telekom.de
 
 +++ MnetDE
 menu = M-net
 title = M-net
-host = www.m-net.de
+host = m-net.de
 
 +++ EWEDE
 menu = EWE
 title = EWE
-host = www.ewe.de
+host = ewe.de
 
 +++ o2onlineDE
 menu = o2online
 title = o2online
-host = www.o2online.de
+host = o2online.de
 
 +++ 1und1DE
 menu = 1und1
 title = 1und1
-host = www.1und1.net
+host = 1und1.net
 
 +++ Hetzner
 menu = Hetzner GmbH
 title = Hetzner GmbH
-host = www.hetzner.de
+host = hetzner.de
 
 +++ Bastler
 menu = Der Bastler
 title = Der Bastler
-host = www.der-bastler.de
+host = der-bastler.de
 
 ++ Switzerland
 menu = Switzerland
@@ -94,7 +86,7 @@ title = Switzerland
 +++ SBB
 menu = SBB
 title = SBB
-host = www.sbb.ch
+host = sbb.ch
 
 ++ UK
 menu = United Kingdom
@@ -108,7 +100,7 @@ host = cam.ac.uk
 +++ UEA
 menu = UEA
 title = UEA
-host = www.uea.ac.uk
+host = uea.ac.uk
 
 ++ USA
 menu = USA
@@ -122,7 +114,7 @@ host = jupiterbroadcasting.com
 +++ Sun
 menu = Sun Microsystems
 title = Sun Microsystems Webserver
-host = www.oracle.com
+host = oracle.com
 
 ++ Facebook
 menu = Facebook
@@ -185,16 +177,16 @@ host = web.mit.edu
 
 menu = IU
 title = Indiana University
-host = www.indiana.edu
+host = indiana.edu
 
 +++ UCB
 
 menu = U. C. Berkeley
 title = U. C. Berkeley Webserver
-host = www.berkley.edu
+host = berkley.edu
 
 +++ UCSD
 
 menu = U. C. San Diego
 title = U. C. San Diego Webserver
-host = www.ucsd.edu
+host = ucsd.edu
