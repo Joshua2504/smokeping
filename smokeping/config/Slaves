@@ -20,3 +20,8 @@ color=008000
 +oracle-ffm
 display_name=Frankfurt Oracle Cloud
 color=ff5733
+
+# Ashburn, VA, USA (Hetzner)
++hetzner-ashburn-s1-sitebuilder360
+display_name=Ashburn, VA, USA (Hetzner)
+color=ff7966
