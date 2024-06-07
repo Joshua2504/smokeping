@@ -2,7 +2,7 @@
 menu = Servers
 title = Servers
 probe = FPing60
-slaves = jph
+slaves = jph ks2-ovh-gravelines oracle-ffm
 
 ++ Aggregated
 menu = Servers Aggregated
