@@ -36,4 +36,4 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/Test
 
 # @include Targets.d/Internal
-#@include Targets.d/NimbleGiant
+@include Targets.d/NimbleGiant
