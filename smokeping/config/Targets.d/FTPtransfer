@@ -1,8 +1,0 @@
-+ FTPtransfer
-menu = FTPtransfer Speedtest
-title = FTPtransfer Speedtest
-#probe = FTPtransfer
-
-#++ dlptest
-#host = ftp.dlptest.com
-#username = dlpuser
