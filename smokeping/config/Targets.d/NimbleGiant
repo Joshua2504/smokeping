@@ -8,16 +8,10 @@ menu = Regnum Online
 title = Regnum Online Latency
 
 +++ RO-Server-Ra
-probe = FPing4
+probe = FPing60
 menu = Server Ra
 title = Regnum Server Ra
 host = 104.196.13.153
-
-+++ RO-Server-Valhalla
-probe = FPing4
-menu = Server Valhalla
-title = Regnum Server Valhalla
-host = 35.242.217.243
 
 +++ RO-Patch-Download01-Curl60
 probe = Curl60
