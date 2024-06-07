@@ -16,7 +16,7 @@ color=00ff00
 display_name=MB Mobile
 color=008000
 
-# Oracle Cloud Frankfurt Free Tier
+# Frankfurt, DE (Oracle Cloud)
 +oracle-ffm
 display_name=Frankfurt Oracle Cloud
 color=ff5733
@@ -25,3 +25,8 @@ color=ff5733
 +hetzner-ashburn-s1-sitebuilder360
 display_name=Ashburn, VA, USA (Hetzner)
 color=ff7966
+
+# Gravelines, France (OVH)
++ks2-ovh-gravelines
+display_name=Gravelines, France (OVH)
+color=ffcccb
