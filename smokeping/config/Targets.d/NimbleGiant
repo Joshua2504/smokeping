@@ -1,7 +1,7 @@
 + NimbleGiant
 menu = Nimble Giant Entertainment
 title = Nimble Giant Entertainment
-slaves = smokeping-slave-tobias
+slaves = oracle-ffm
 
 ++ RegnumOnline
 menu = Regnum Online
