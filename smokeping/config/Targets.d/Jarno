@@ -1,0 +1,117 @@
++ thahsahJe0
+menu = Pilovalis Starlink WiFi
+title = Pilovalis Starlink WiFi
+
+++ Ieh9soep4o
+menu = Access Points (Aggregated)
+title = Access Points (Aggregated)
+host = /thahsahJe0/Phohloo2uy/aSair3maeY /thahsahJe0/Phohloo2uy/ahbiePh6yu /thahsahJe0/Phohloo2uy/eitheiTh8i /thahsahJe0/Phohloo2uy/joo6queeNg /thahsahJe0/Phohloo2uy/Iz8fie7doy /thahsahJe0/Phohloo2uy/ooz5ioj2uW /thahsahJe0/Phohloo2uy/Caengie6Oo
+
+++ fahS2eiqui
+menu = Switches (Aggregated)
+title = Switches (Aggregated)
+host = /thahsahJe0/UFa1eethee/Pheisha0Oo /thahsahJe0/UFa1eethee/quong2Eed1
+
+++ aeghah9EiG
+menu = NanoBeams (Aggregated)
+title = NanoBeams (Aggregated)
+host = /thahsahJe0/juVuo4ooni/ohF7egh6th /thahsahJe0/juVuo4ooni/aenaizae2G /thahsahJe0/juVuo4ooni/Va5Umie2ei /thahsahJe0/juVuo4ooni/cil8Quaequ
+
+++ Phohloo2uy
+menu = Access Points
+title = Access Points
+probe = FPing10
+slaves = jarno-raspberry-pi-01
+
++++ aSair3maeY
+menu = AP01 (EAP650-Outdoor)
+title = AP01 (EAP650-Outdoor) 172.16.0.11
+host = 172.16.0.11
+nomasterpoll = yes
+
++++ ahbiePh6yu
+menu = AP02 (EAP650-Outdoor)
+title = AP02 (EAP610-Outdoor) 172.16.0.12
+host = 172.16.0.12
+nomasterpoll = yes
+
+
++++ eitheiTh8i
+menu = AP03 (EAP620 HD)
+title = AP03 (EAP620 HD) 172.16.0.13
+host = 172.16.0.13
+nomasterpoll = yes
+
+
++++ joo6queeNg
+menu = AP04 (EAP225-Outdoor)
+title = AP04 (EAP225-Outdoor) 172.16.0.14
+host = 172.16.0.14
+nomasterpoll = yes
+
+
++++ Iz8fie7doy
+menu = AP05 (EAP225-Outdoor)
+title = AP05 (EAP225-Outdoor) 172.16.0.15
+host = 172.16.0.15
+nomasterpoll = yes
+
++++ ooz5ioj2uW
+menu = AP06 (EAP225-Outdoor)
+title = AP06 (EAP225-Outdoor) 172.16.0.16
+host = 172.16.0.16
+nomasterpoll = yes
+
++++ Caengie6Oo
+menu = AP07 (EAP225-Outdoor)
+title = AP07 (EAP225-Outdoor) 172.16.0.17
+host = 172.16.0.17
+nomasterpoll = yes
+
+++ UFa1eethee
+menu = Switches
+title = Switches
+probe = FPing10
+slaves = jarno-raspberry-pi-01
+
++++ Pheisha0Oo
+menu = SW-01 (USW-Mini)
+title = SW-01 (USW-Mini) 172.16.0.21
+host = 172.16.0.21
+nomasterpoll = yes
+
++++ quong2Eed1
+menu = SW-02 (TP-Link)
+title = SW-02 (TP-Link) 172.16.0.22
+host = 172.16.0.22
+nomasterpoll = yes
+
+++ juVuo4ooni
+menu = NanoBeams
+title = NanoBeams
+probe = FPing10
+slaves = jarno-raspberry-pi-01
+
++++ ohF7egh6th
+menu = NB01 (NB-5AC-AP)
+title = NB01 (NB-5AC-AP) 172.16.0.31
+host = 172.16.0.31
+nomasterpoll = yes
+
++++ aenaizae2G
+menu = NB02 (NB-5AC-ST)
+title = NB02 (NB-5AC-ST) 172.16.0.32
+host = 172.16.0.32
+nomasterpoll = yes
+
++++ Va5Umie2ei
+menu = NB03 (NB-5AC-AP2)
+title = NB03 (NB-5AC-AP2) 172.16.0.33
+host = 172.16.0.33
+nomasterpoll = yes
+
++++ cil8Quaequ
+menu = NB04 (NB-5AC-ST2)
+title = NB04 (NB-5AC-ST2) 172.16.0.34
+host = 172.16.0.34
+nomasterpoll = yes
