@@ -29,6 +29,7 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/NimbleGiant
 @include Targets.d/OVH
 @include Targets.d/Pilovali
+@include Targets.d/Jarno
 @include Targets.d/Private
 @include Targets.d/ProHosting24
 @include Targets.d/Servers
