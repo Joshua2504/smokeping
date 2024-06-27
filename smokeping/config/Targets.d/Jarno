@@ -120,16 +120,16 @@ nomasterpoll = yes
 menu = External Targets
 title = External Targets
 
++++ etohnaiP4i
+menu = DNS Servers Aggregared
+title = DNS Servers Aggregared
+host = /thahsahJe0/Aem5eemoo9/eis5pi5Foh/sopaey3Phe /thahsahJe0/Aem5eemoo9/eis5pi5Foh/chi9Ool2ee /thahsahJe0/Aem5eemoo9/eis5pi5Foh/sah6Gohngi /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eeghoo /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eegho0 /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eegho1 /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eegho2
+
 +++ eis5pi5Foh
 menu = DNS Servers
 title = DNS Servers
 probe = FPing10
 slaves = jarno-raspberry-pi-01
-
-+++ etohnaiP4i
-menu = DNS Servers Aggregared
-title = DNS Servers Aggregared
-host = /thahsahJe0/Aem5eemoo9/eis5pi5Foh/sopaey3Phe /thahsahJe0/Aem5eemoo9/eis5pi5Foh/chi9Ool2ee /thahsahJe0/Aem5eemoo9/eis5pi5Foh/sah6Gohngi /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eeghoo /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eegho0 /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eegho1 /thahsahJe0/Aem5eemoo9/eis5pi5Foh/aht9eegho2
 
 ++++ sopaey3Phe
 menu = Google DNS 1
