@@ -2,26 +2,12 @@
 menu = Pilovalis Starlink WiFi
 title = Pilovalis Starlink WiFi
 
-++ Ieh9soep4o
-menu = Access Points (Aggregated)
-title = Access Points (Aggregated)
-host = /thahsahJe0/Phohloo2uy/aSair3maeY /thahsahJe0/Phohloo2uy/ahbiePh6yu /thahsahJe0/Phohloo2uy/eitheiTh8i /thahsahJe0/Phohloo2uy/joo6queeNg /thahsahJe0/Phohloo2uy/Iz8fie7doy /thahsahJe0/Phohloo2uy/ooz5ioj2uW /thahsahJe0/Phohloo2uy/Caengie6Oo
-
-++ fahS2eiqui
-menu = Switches (Aggregated)
-title = Switches (Aggregated)
-host = /thahsahJe0/UFa1eethee/Pheisha0Oo /thahsahJe0/UFa1eethee/quong2Eed1
-
-++ aeghah9EiG
-menu = NanoBeams (Aggregated)
-title = NanoBeams (Aggregated)
-host = /thahsahJe0/juVuo4ooni/ohF7egh6th /thahsahJe0/juVuo4ooni/aenaizae2G /thahsahJe0/juVuo4ooni/Va5Umie2ei /thahsahJe0/juVuo4ooni/cil8Quaequ
-
 ++ Phohloo2uy
 menu = Access Points
 title = Access Points
 probe = FPing10
 slaves = jarno-raspberry-pi-01
+host = /thahsahJe0/Phohloo2uy/aSair3maeY /thahsahJe0/Phohloo2uy/ahbiePh6yu /thahsahJe0/Phohloo2uy/eitheiTh8i /thahsahJe0/Phohloo2uy/joo6queeNg /thahsahJe0/Phohloo2uy/Iz8fie7doy /thahsahJe0/Phohloo2uy/ooz5ioj2uW /thahsahJe0/Phohloo2uy/Caengie6Oo
 
 +++ aSair3maeY
 menu = AP01 (EAP650-Outdoor)
@@ -73,6 +59,7 @@ menu = Switches
 title = Switches
 probe = FPing10
 slaves = jarno-raspberry-pi-01
+host = /thahsahJe0/UFa1eethee/Pheisha0Oo /thahsahJe0/UFa1eethee/quong2Eed1
 
 +++ Pheisha0Oo
 menu = SW-01 (USW-Mini)
@@ -91,6 +78,7 @@ menu = NanoBeams
 title = NanoBeams
 probe = FPing10
 slaves = jarno-raspberry-pi-01
+host = /thahsahJe0/juVuo4ooni/ohF7egh6th /thahsahJe0/juVuo4ooni/aenaizae2G /thahsahJe0/juVuo4ooni/Va5Umie2ei /thahsahJe0/juVuo4ooni/cil8Quaequ
 
 +++ ohF7egh6th
 menu = NB01 (NB-5AC-AP)
