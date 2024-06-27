@@ -119,12 +119,12 @@ nomasterpoll = yes
 ++ Aem5eemoo9
 menu = External Targets
 title = External Targets
-probe = FPing10
-slaves = jarno-raspberry-pi-01
 
 +++ eis5pi5Foh
 menu = DNS Servers
 title = DNS Servers
+probe = FPing10
+slaves = jarno-raspberry-pi-01
 
 ++++ sopaey3Phe
 menu = Google DNS 1
