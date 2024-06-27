@@ -115,3 +115,53 @@ menu = NB04 (NB-5AC-ST2)
 title = NB04 (NB-5AC-ST2) 172.16.0.34
 host = 172.16.0.34
 nomasterpoll = yes
+
+++ Aem5eemoo9
+menu = External Targets
+title = External Targets
+probe = FPing10
+slaves = jarno-raspberry-pi-01
+
++++ eis5pi5Foh
+menu = DNS Servers
+title = DNS Servers
+
+++++ sopaey3Phe
+menu = Google DNS 1
+title = Google DNS 1 (8.8.8.8)
+host = 8.8.8.8
+#nomasterpoll = yes
+
+++++ chi9Ool2ee
+menu = Google DNS 2
+title = Google DNS 2 (8.8.4.4)
+host = 8.8.4.4
+#nomasterpoll = yes
+
+++++ sah6Gohngi
+menu = Cloudflare DNS 1
+title = Cloudflare DNS 1 (1.1.1.1)
+host = 1.1.1.1
+#nomasterpoll = yes
+
+++++ aht9eeghoo
+menu = Cloudflare DNS 2
+title = Cloudflare DNS 2 (1.0.0.1)
+host = 1.0.0.1
+#nomasterpoll = yes
+
+++++ aht9eegho0
+menu = Quad9 DNS 1
+title = Quad9 DNS 1 (9.9.9.9)
+host = 9.9.9.9
+#nomasterpoll = yes
+
+++++ aht9eegho1
+menu = Quad9 DNS 2
+title = Quad9 DNS 2 (149.112.112.112)
+host = 149.112.112.112
+
+++++ aht9eegho2
+menu = NextDNS
+title = NextDNS (ping.nextdns.io)
+host = ping.nextdns.io
