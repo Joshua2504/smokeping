@@ -1,7 +1,7 @@
 + DNS
 menu = DNS
 title = DNS
-slaves = jph knight-home-bss joshua-macbook ks2-ovh-gravelines oracle-ffm jarno-vm1
+slaves = jph knight-home-bss joshua-macbook ks2-ovh-gravelines oracle-ffm jarno-vm1 sitebuilder360-web1
 probe = FPing60
 
 ++ Google

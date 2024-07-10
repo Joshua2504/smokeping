@@ -1,14 +1,19 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
 
+# Jarno's WiFi Prober on a Pi
++jarno-raspberry-pi-01
+display_name=Raspberry Pi
+color=ff0000
+
 # JPH BÜro (nuc1)
 +jph
-display_name=Frankfurt Enkheim
+display_name=Frankfurt, Enkheim (JPH Telekom)
 color=ff00ff
 
 # Tobi zu Hause
 +knight-home-bss
-display_name=Bad Soden-Salmünster
+display_name=Bad Soden-Salmünster, DE
 color=00ff00
 
 # Joshua's Mobiler Smokeping Slave auf dem MacBook
@@ -18,25 +23,20 @@ color=008000
 
 # Frankfurt, DE (Oracle Cloud)
 +oracle-ffm
-display_name=Frankfurt Oracle Cloud
+display_name=Frankfurt, DE (Oracle)
 color=ff5733
-
-# Ashburn, VA, USA (Hetzner)
-+hetzner-ashburn-s1-sitebuilder360
-display_name=Ashburn, VA, USA (Hetzner)
-color=ff7966
 
 # Gravelines, France (OVH)
 +ks2-ovh-gravelines
-display_name=Gravelines, France (OVH)
+display_name=Gravelines, FR (OVH)
 color=ffcccb
-
-# Jarno's WiFi Prober on a Pi
-+jarno-raspberry-pi-01
-display_name=Raspberry Pi
-color=ff0000
 
 # Jarno VM1
 +jarno-vm1
-display_name=Hetzner FSN-DC12
+display_name=Falkenstein, DE (Hetzner FSN-DC12)
 color=ff00aa
+
+# Sitebuilder 360 Web1
++sitebuilder360-web1
+display_name=Ashburn, VA, USA (Hetzner ASH-DC1)
+color=ff7966
