@@ -2,6 +2,7 @@
 menu = Pilovali
 title = Pilovali
 probe = FPing120
+slaves = jarno-vm1
 
 ++ Aggregated
 menu = Aggregated
@@ -9,8 +10,8 @@ title = Pilovali Aggregated
 host = /Pilovali/pilo-house /Pilovali/pilo-mother /Pilovali/pilo-dad /Pilovali/pilo-webbox /Pilovali/pilo-citradio-azura
 
 ++ pilo-house
-menu = House (T-Mobile)
-title = House (T-Mobile)
+menu = House (KPN)
+title = House (KPN)
 host = penningkruid.weiteveen.pilovali.nl
 
 ++ pilo-mother
