@@ -35,3 +35,8 @@ color=ffcccb
 +jarno-raspberry-pi-01
 display_name=Raspberry Pi
 color=ff0000
+
+# Jarno VM1
++jarno-vm1
+display_name=Hetzner FSN-DC12
+color=ff00aa
