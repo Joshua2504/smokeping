@@ -16,3 +16,6 @@ host = status.ip-projects.de
 
 +++ blog
 host = blog.ip-projects.de
+
++++ colosonsult
+host = colo-consult.de
