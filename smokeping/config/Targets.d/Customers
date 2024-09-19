@@ -24,21 +24,6 @@ menu = quaiJ6Heig
 title = quaiJ6Heig
 host = studio90s.de
 
-++ Zaeng1iesh
-menu = Zaeng1iesh
-title = Zaeng1iesh
-slaves = jph oracle-ffm
-
-+++ production
-menu = production
-title = production
-
-++++ curl10
-probe = Curl10
-menu = yasarbonus.com Curl10
-title = yasarbonus.com Curl10
-host = yasarbonus.com
-
 ++ zaN2ohng1x
 menu = CoR Forum
 title = CoR Forum
