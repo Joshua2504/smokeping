@@ -16,11 +16,10 @@ host = 172.16.0.11
 nomasterpoll = yes
 
 +++ ahbiePh6yu
-menu = AP02 (EAP650-Outdoor)
+menu = AP02 (EAP610-Outdoor)
 title = AP02 (EAP610-Outdoor) 172.16.0.12
 host = 172.16.0.12
 nomasterpoll = yes
-
 
 +++ eitheiTh8i
 menu = AP03 (EAP620 HD)
@@ -28,13 +27,11 @@ title = AP03 (EAP620 HD) 172.16.0.13
 host = 172.16.0.13
 nomasterpoll = yes
 
-
 +++ joo6queeNg
 menu = AP04 (EAP225-Outdoor)
 title = AP04 (EAP225-Outdoor) 172.16.0.14
 host = 172.16.0.14
 nomasterpoll = yes
-
 
 +++ Iz8fie7doy
 menu = AP05 (EAP225-Outdoor)
@@ -52,6 +49,18 @@ nomasterpoll = yes
 menu = AP07 (EAP225-Outdoor)
 title = AP07 (EAP225-Outdoor) 172.16.0.17
 host = 172.16.0.17
+nomasterpoll = yes
+
++++ phaeGh8iew
+menu = AP08 (EAP610-Outdoor)
+title = AP08 (EAP610-Outdoor) 172.16.0.18
+host = 172.16.0.18
+nomasterpoll = yes
+
++++ zae3aig8Wu
+menu = AP09 (EAP225)
+title = AP09 (EAP225) 172.16.0.19
+host = 172.16.0.19
 nomasterpoll = yes
 
 ++ UFa1eethee
