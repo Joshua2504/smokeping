@@ -2,7 +2,6 @@
 menu = Comparison
 title = Comparisons between hosts
 host = /JPH/Websites/cloud \
-       /Customers/Zaeng1iesh/production/curl10 \
        /Bahn/Websites/reiseauskunft \
        /Amir/websites/as207740
        
