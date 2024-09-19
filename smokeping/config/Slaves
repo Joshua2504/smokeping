@@ -36,6 +36,11 @@ color=ffcccb
 display_name=Falkenstein, DE (Hetzner FSN-DC12)
 color=ff00aa
 
+# Jarno VM2
++jarno-vm2
+display_name=Weiteveen, NL (KPN)
+
+
 # Sitebuilder 360 Web1
 +sitebuilder360-web1
 display_name=Ashburn, VA, USA (Hetzner ASH-DC1)
