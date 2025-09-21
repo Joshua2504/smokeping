@@ -3,105 +3,18 @@ menu = Jugendpresse Hessen e.V.
 title = Jugendpresse Hessen e.V.
 probe = Curl300
 
-++ Office
-menu = Office
-title = Office
-probe = FPing60
-
-+++ internet
-menu = Internet Connection
-title = Internet Connection
-host = jphev.dynv6.net
-
-+++ cam1
-menu = cam1
-title = cam1
-host = 10.11.12.30
-
-+++ cam2
-menu = cam2
-title = cam2
-host = 10.11.12.45
-
-+++ Brother-MFC-J6510DW
-menu = Brother MFC-J6510DW
-title = Brother MFC-J6510DW
-host = 10.11.12.59
-
-+++ DiskStation
-menu = DiskStation
-title = DiskStation
-host = 10.11.12.43
-
-+++ Heisenberg
-menu = Heisenberg
-title = Heisenberg
-host = 10.11.12.2
-
-+++ HueBridge
-menu = HueBridge
-title = HueBridge
-host = 10.11.12.52
-
-+++ iLo
-menu = iLo
-title = iLo
-host = 10.11.12.13
-
-+++ lostdata
-menu = lostdata
-title = lostdata
-host = 10.11.12.40
-
-+++ nuc1
-menu = nuc1
-title = nuc1
-host = 10.11.12.38
-
-+++ tobias-mbp
-menu = Tobias MBP
-title = Tobias MBP
-host = 10.11.12.20
-
-+++ tobias-iphone
-menu = Tobias iPhone
-title = Tobias iPhone
-host = 10.11.12.32
-
-+++ joshua-mba
-menu = Joshua MBA
-title = Joshua MBA
-host = 10.11.12.42
-
-+++ joshua-iphone
-menu = Joshua iPhone
-title = Joshua iPhone
-host = 10.11.12.29
-
 ++ Websites
 menu = Websites
 title = Jugendpresse Hessen Websites
-host = /JPH/Websites/jphev /JPH/Websites/www /JPH/Websites/cloud /JPH/Websites/szw
+host = /JPH/Websites/jphev /JPH/Websites/www /JPH/Websites/szw
 
 +++ www
-host = jugendpresse-hessen.de
+host = jugendpresse-hessen.de (WordPress)
 follow_redirects = yes
 include_redirects = yes
 
 +++ jphev
-host = jphev.de
-follow_redirects = yes
-include_redirects = yes
-
-+++ drive
-host = drive.jphev.de
-title = drive.jphev.de
-follow_redirects = yes
-include_redirects = yes
-
-+++ cloud
-host = cloud.jphev.de
-title = cloud.jphev.de (Nextcloud @ all-inc.com)
+host = jphev.de (WordPress)
 follow_redirects = yes
 include_redirects = yes
 
@@ -110,20 +23,3 @@ host = szw-hessen.de
 title = szw-hessen.de (WordPress)
 follow_redirects = yes
 include_redirects = yes
-
-++ Server
-menu = Server
-title = Jugendpresse Hessen e.V. Server
-probe = FPing60
-host = /JPH/Server/mail /JPH/Server/drive
-
-+++ Aggregated
-menu = Servers Aggregated
-title = Servers Aggregated
-host = /JPH/Server/mail /JPH/Server/drive
-
-+++ drive
-host = drive.jphev.de
-
-+++ mail
-host = mail.jphev.de
