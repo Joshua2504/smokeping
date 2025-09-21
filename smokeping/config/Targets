@@ -19,7 +19,6 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/ETHServices
 @include Targets.d/firstcolo
 @include Targets.d/FullTimeHosting
-#@include Targets.d/google
 @include Targets.d/Hetzner
 @include Targets.d/HexaMain
 @include Targets.d/Knight
@@ -32,6 +31,5 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/Jarno
 @include Targets.d/Private
 @include Targets.d/ProHosting24
-@include Targets.d/Servers
 @include Targets.d/Uvensys
 @include Targets.d/3rdPartyServers

@@ -3,11 +3,11 @@ menu = Residential Connections
 title = Residential Internet Connections
 slaves = jph knight-home-bss joshua-macbook oracle-ffm jarno-vm1 jarno-vm2
 
-#++ localroot
-#probe = FPing10
-#menu = Mother (Langen)
-#title = Mother (Langen)
-#host = localroot.treudler.net
+++ localroot
+probe = FPing10
+menu = Mother (Langen)
+title = Mother (Langen)
+host = localroot.treudler.net
 
 ++ knight
 probe = FPing10
