@@ -1,6 +1,6 @@
 *** Alerts ***
 to = jotreudler@gmail.com
-from = smokealert@company.xy
+from = system@treudler.net
 
 +someloss
 type = loss
