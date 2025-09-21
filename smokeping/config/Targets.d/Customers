@@ -5,7 +5,6 @@ title = Customers
 ++ maeM5weich
 menu = maeM5weich
 title = maeM5weich
-slaves = jph oracle-ffm
 
 +++ Mie8oach2u
 probe = Curl60
@@ -16,7 +15,6 @@ host = archive.brisbaneca.org
 ++ Zau5AhXahY
 menu = Zau5AhXahY
 title = Zau5AhXahY
-slaves = jph oracle-ffm
 
 +++ quaiJ6Heig
 probe = Curl60
@@ -27,7 +25,6 @@ host = studio90s.de
 ++ zaN2ohng1x
 menu = CoR Forum
 title = CoR Forum
-slaves = jph oracle-ffm
 
 +++ production
 menu = production

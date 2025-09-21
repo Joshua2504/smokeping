@@ -2,7 +2,6 @@
 menu = OVH SAS
 title = OVH SAS
 probe = FPing120
-slaves = jph oracle-ffm
 
 ++ Aggregated-Smokeping
 menu = OVH Smokeping Aggregated

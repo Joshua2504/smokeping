@@ -1,7 +1,6 @@
 + Digitalocean
 menu = DigitalOcean
 title = DigitalOcean
-slaves = jph oracle-ffm
 
 ++ Ripe
 menu = Ripe Probes
