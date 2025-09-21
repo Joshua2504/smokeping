@@ -7,8 +7,6 @@ menu = BungeeCloud Services
 title = BungeeCloud Services
 probe = Curl120
 
-aggregate = bungeecloudorg gwbungeecloudorg shopbungeecloudorg vmbungeecloudorg pleskbungeecloudorg web02bungeecloudorg pro02bungeecloudorg webmailbungeecloudorg cdnbungeecloudorg statsbungeecloudorg
-
 +++ bungeecloudorg
 host = bungeecloud.org
 
