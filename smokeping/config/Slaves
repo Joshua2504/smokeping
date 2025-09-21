@@ -1,17 +1,11 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
 
-# Jarno's WiFi Prober on a Pi
+# Jarno's WiFi Prober on a Pi - IN USE AS OF 21.09.2025
 +jarno-raspberry-pi-01
 display_name=Raspberry Pi
 color=ff0000
 
-# Joshua's Mobiler Smokeping Slave auf dem MacBook
 +joshua-macbook
 display_name=Joshua MacBook
 color=008000
-
-# Frankfurt, DE (Oracle Cloud)
-# +oracle-ffm
-# display_name=Frankfurt, DE (Oracle)
-# color=ff5733
