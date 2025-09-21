@@ -29,7 +29,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           script: |
             cd ${{ vars.SSH_PATH }}
-            docker-compose down
+            docker compose down
 
       - name: Start Docker Compose
         uses: appleboy/ssh-action@v0.1.10
@@ -39,4 +39,4 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           script: |
             cd ${{ vars.SSH_PATH }}
-            docker-compose up -d
+            docker compose up -d
