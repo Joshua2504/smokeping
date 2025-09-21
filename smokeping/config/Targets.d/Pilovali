@@ -2,8 +2,8 @@
 menu = Pilovali
 title = Pilovali
 probe = FPing120
-slaves = jarno-vm1 jarno-vm2
 
++ Aggregated
 ++ Aggregated
 menu = Aggregated
 title = Pilovali Aggregated
