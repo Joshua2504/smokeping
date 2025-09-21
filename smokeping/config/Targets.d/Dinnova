@@ -1,0 +1,20 @@
++ Dinnova
+menu = Dinnova AG
+title = Dinnova AG
+probe = Curl60
+
+++ Websites
+menu = Dinnova WordPress Websites
+title = Dinnova WordPress Websites
+probe = Curl120
+host = /Dinnova/Websites/dinnova_ch /Dinnova/Websites/dinnova_io
+
++++ dinnova_ch
+host = dinnova.ch
+follow_redirects = yes
+include_redirects = yes
+
++++ dinnova_io
+host = dinnova.io
+follow_redirects = yes
+include_redirects = yes

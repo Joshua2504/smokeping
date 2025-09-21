@@ -9,6 +9,7 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
          If you want your servers to be added to this Network Latency Monitoring, \
          please send an e-mail to smokeping <at> treudler <dot> net. \
 
+@include Targets.d/Dinnova
 @include Targets.d/Customers
 @include Targets.d/Amir
 @include Targets.d/Bahn
