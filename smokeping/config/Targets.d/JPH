@@ -12,7 +12,6 @@ probe = FPing60
 menu = Internet Connection
 title = Internet Connection
 host = jphev.dynv6.net
-slaves = knight-home-bss 
 
 +++ cam1
 menu = cam1
