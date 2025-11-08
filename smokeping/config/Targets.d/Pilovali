@@ -3,7 +3,6 @@ menu = Pilovali
 title = Pilovali
 probe = FPing120
 
-+ Aggregated
 ++ Aggregated
 menu = Aggregated
 title = Pilovali Aggregated
