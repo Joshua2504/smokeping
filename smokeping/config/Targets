@@ -11,6 +11,7 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 
 @include Targets.d/Dinnova
 @include Targets.d/Customers
+@include Targets.d/BartenbachStephanGbR
 @include Targets.d/Amir
 @include Targets.d/Bahn
 @include Targets.d/BungeeCloud
