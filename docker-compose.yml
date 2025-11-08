@@ -2,7 +2,7 @@ services:
   smokeping:
     image: linuxserver/smokeping
     container_name: smokeping
-    hostname: Falkenstein
+    hostname: Frankfurt am Main, South-East
     environment:
       - PUID=1000
       - PGID=1000
