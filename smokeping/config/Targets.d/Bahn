@@ -7,7 +7,7 @@ probe = FPing300
 menu = Websites
 title = Deutsche Bahn Websites
 probe = Curl120
-host = /Bahn/Websites/www /Bahn/Websites/reiseauskunft /Bahn/Websites/fahrkarten /Bahn/Websites/assets
+host = /Bahn/Websites/www /Bahn/Websites/reiseauskunft /Bahn/Websites/assets
 
 +++ www
 host = bahn.de
@@ -16,11 +16,6 @@ include_redirects = yes
 
 +++ reiseauskunft
 host = reiseauskunft.bahn.de
-follow_redirects = yes
-include_redirects = yes
-
-+++ fahrkarten
-host = fahrkarten.bahn.de
 follow_redirects = yes
 include_redirects = yes
 
