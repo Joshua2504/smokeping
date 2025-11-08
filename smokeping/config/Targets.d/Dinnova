@@ -18,3 +18,35 @@ include_redirects = yes
 host = dinnova.io
 follow_redirects = yes
 include_redirects = yes
+
+++ Hosts
+menu = Dinnova Hosts
+title = Dinnova Hosts
+probe = FPing4
+
++++ fsn1-pve
+menu = pve1-fsn
+title = pve1-fsn
+host = pve1-fsn.infra.dinnova.io
+
+++ Zytrack
+menu = Zytrack AG
+title = Zytrack AG
+probe = Curl60
+
++++ zytrack_ch
+host = zytrack.ch
+
++++ app_zytrack_ch
+host = app.zytrack.ch
+
+++ ShopySwiss
+menu = ShopySwiss
+title = ShopySwiss
+probe = Curl60
+
++++ shopy_swiss
+host = shopy.swiss
+
++++ app_shopy_swiss
+host = app.shopy.swiss
