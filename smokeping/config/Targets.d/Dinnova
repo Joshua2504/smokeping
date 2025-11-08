@@ -50,3 +50,17 @@ host = shopy.swiss
 
 +++ app_shopy_swiss
 host = app.shopy.swiss
+
+++ 7tools
+menu = 7tools
+title = 7tools
+probe = Curl60
+
++++ seventools_com
+host = seventools.com
+
++++ shop_seventools_com
+host = shop.seventools.com
+
++++ 7scout_seventools_com
+host = 7scout.seventools.com
