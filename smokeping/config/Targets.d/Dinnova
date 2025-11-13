@@ -63,6 +63,10 @@ host = zytrack.ch
 +++ app_zytrack_ch
 host = app.zytrack.ch
 
++++ app_zytrack_ch_curl10
+probe = Curl10
+host = app.zytrack.ch
+
 ++ ShopySwiss
 menu = ShopySwiss
 title = ShopySwiss
