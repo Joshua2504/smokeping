@@ -1,0 +1,11 @@
++ inforent
+menu = INFORENT GmbH
+title = INFORENT GmbH
+
+++ inforentnet
+probe = Curl60
+host = inforent.net
+
+++ inforentwebmail
+probe = Curl60
+host = webmail.inforent.net
