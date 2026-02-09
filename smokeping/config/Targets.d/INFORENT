@@ -1,0 +1,7 @@
++ inforent
+menu = INFORENT GmbH
+title = INFORENT GmbH
+
+++ inforentnet
+probe = Curl300
+host = inforent.net
