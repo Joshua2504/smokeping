@@ -9,13 +9,13 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
          If you want your servers to be added to this Network Latency Monitoring, \
          please send an e-mail to smokeping <at> treudler <dot> net. \
 
-@include Targets.d/Dinnova
 @include Targets.d/Customers
-@include Targets.d/BartenbachStephanGbR
 @include Targets.d/Amir
 @include Targets.d/Bahn
+@include Targets.d/BartenbachStephanGbR
 @include Targets.d/BungeeCloud
 @include Targets.d/DigitalOcean
+@include Targets.d/Dinnova
 @include Targets.d/DNS
 @include Targets.d/ETHServices
 @include Targets.d/firstcolo
@@ -23,6 +23,7 @@ remark = Welcome to my SmokePing Network Latency Grapher. \
 @include Targets.d/Hetzner
 @include Targets.d/HexaMain
 @include Targets.d/Knight
+@include Targets.d/INFORENT
 @include Targets.d/InternetSites
 @include Targets.d/IPP
 @include Targets.d/JPH
