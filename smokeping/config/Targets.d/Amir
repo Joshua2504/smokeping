@@ -36,7 +36,7 @@ host = /Amir/server/inforent-eecuguZ5da /Amir/server/6 /Amir/server/7 /Amir/serv
 menu = inforent 80.243.196.44
 title = inforent 80.243.196.44
 host = 80.243.196.44
-Probe = FPing4
+probe = FPing4
 
 +++ 6
 menu = 6 BG, Sofia (DA International)
