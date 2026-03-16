@@ -19,39 +19,6 @@ host = dinnova.io
 follow_redirects = yes
 include_redirects = yes
 
-++ Hosts
-menu = Dinnova Hosts
-title = Dinnova Hosts
-probe = FPing4
-
-+++ fsn1-pve
-menu = pve1-fsn
-title = pve1-fsn
-host = pve1-fsn.infra.dinnova.io
-
-++++ fsn1-pve-ips
-menu = pve1-fsn IPs
-title = pve1-fsn IPs
-probe = FPing60
-
-+++++ 136-243-210-20
-host = 136.243.210.20
-
-+++++ 136-243-210-21
-host = 136.243.210.21
-
-+++++ 136-243-210-22
-host = 136.243.210.22
-
-+++++ 168-119-96-67
-host = 168.119.96.67
-
-+++++ 168-119-96-68
-host = 168.119.96.68
-
-+++++ 168-119-96-69
-host = 168.119.96.69
-
 ++ Zytrack
 menu = Zytrack AG
 title = Zytrack AG
@@ -79,12 +46,6 @@ host = shopy.swiss
 
 +++ app_shopy_swiss
 host = app.shopy.swiss
-
-+++ app_shopy_swiss_curl10
-probe = Curl10
-host = app.shopy.swiss
-menu = app.shopy.swiss Curl10
-title = app.shopy.swiss Curl10
 
 ++ 7tools
 menu = 7tools
