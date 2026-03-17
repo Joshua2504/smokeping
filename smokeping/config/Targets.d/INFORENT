@@ -1,3 +1,22 @@
++ inforant
+menu = INFORENT Staging
+title = INFORENT Staging
+
+++ ns
+menu = new ns
+title = new ns
+probe = FPing4
+host = /inforant/ns/ns1 /inforant/ns/ns2 /inforant/ns/ns3
+
++++ ns1
+host = 80.243.196.37
+
++++ ns2
+host = 80.243.196.38
+
++++ ns3
+host = 80.243.196.39
+
 + inforent
 menu = INFORENT GmbH
 title = INFORENT GmbH
