@@ -9,13 +9,13 @@ probe = FPing4
 host = /inforant/ns/ns1 /inforant/ns/ns2 /inforant/ns/ns3
 
 +++ ns1
-host = 80.243.196.37
+host = ns1.inforant.de
 
 +++ ns2
-host = 80.243.196.38
+host = ns2.inforant.de
 
 +++ ns3
-host = 80.243.196.39
+host = ns3.inforant.de
 
 + inforent
 menu = INFORENT GmbH
