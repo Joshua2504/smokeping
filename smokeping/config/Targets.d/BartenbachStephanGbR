@@ -6,7 +6,7 @@ host = /BartenbachStephanGbR/Web/velohost-website
 ++ INFORENT
 menu = INFORENT Colocation
 title = INFORENT Rechenzentrum Colocation
-slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt
+slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
 
 +++ c3-sw01
 probe = FPing4
