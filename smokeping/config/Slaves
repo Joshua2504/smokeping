@@ -4,3 +4,7 @@ secrets=/config/smokeping_secrets
 +joshua-macbook
 display_name=Joshua MacBook
 color=008000
+
++BartenbachStephanGbR-MyLoc
+display_name=Dusseldorf (MyLoc)
+color=ff0000
