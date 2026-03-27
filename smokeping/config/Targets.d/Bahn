@@ -14,11 +14,6 @@ host = bahn.de
 follow_redirects = yes
 include_redirects = yes
 
-+++ reiseauskunft
-host = reiseauskunft.bahn.de
-follow_redirects = yes
-include_redirects = yes
-
 +++ assets
 host = assets.static-bahn.de
 follow_redirects = yes
