@@ -21,18 +21,18 @@ slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
 probe = FPing4
 
 +++ server1
-menu = Server 1 (185.119.17.2)
-title = Server 1 (185.119.17.2)
+menu = Proxmox 1 (185.119.17.2)
+title = Proxmox 1 (185.119.17.2)
 host = 185.119.17.2
 
 +++ server2
-menu = Server 2 (185.119.17.12)
-title = Server 2 (185.119.17.12)
+menu = Proxmox 2 (185.119.17.12)
+title = Proxmox 2 (185.119.17.12)
 host = 185.119.17.12
 
 +++ server3
-menu = Server 3 (185.119.17.19)
-title = Server 3 (185.119.17.19)
+menu = Proxmox 3 (185.119.17.19)
+title = Proxmox 3 (185.119.17.19)
 host = 185.119.17.19
 
 +++ pbs
