@@ -6,6 +6,7 @@ title = INFORENT Staging
 menu = new ns
 title = new ns
 probe = FPing4
+slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt
 host = /inforant/ns/ns1 /inforant/ns/ns2 /inforant/ns/ns3
 
 +++ ns1
