@@ -2,7 +2,7 @@ services:
   smokeping:
     image: linuxserver/smokeping
     container_name: smokeping
-    hostname: Frankfurt (INFORENT)
+    hostname: Frankfurt (INFORENT Rechenzentrum)
     environment:
       - PUID=1000
       - PGID=1000
