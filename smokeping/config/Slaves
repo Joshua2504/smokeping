@@ -1,11 +1,6 @@
 *** Slaves ***
 secrets=/config/smokeping_secrets
 
-# Jarno's WiFi Prober on a Pi - IN USE AS OF 21.09.2025
-+jarno-raspberry-pi-01
-display_name=Raspberry Pi
-color=ff0000
-
 +joshua-macbook
 display_name=Joshua MacBook
 color=008000
