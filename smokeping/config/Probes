@@ -33,6 +33,22 @@ step = 4
 pings = 3
 timeout = 2
 
++ FPingContinuous
+binary = /usr/sbin/fping # mandatory
+hostinterval = 1.5
+offset = 50%
+packetsize = 5000
+pings = 20
+sourceaddress = 192.168.0.1
+step = 300
+timeout = 1.5
+tos = 0x20
+usestdout = false
+
+++ FPingContinuous1s
+hostinterval = 1.0
+timeout = 1.0
+
 +TraceroutePing
 binary = /usr/bin/traceroute
 # binaryv6 = /usr/bin/traceroute6

@@ -3,6 +3,15 @@ menu = Bartenbach & Stephan GbR
 title = Bartenbach & Stephan GbR trading as Velohost
 host = /BartenbachStephanGbR/Web/velohost-website
 
+++ Taevoo3Eir
+menu = INFORENT Colo
+title = INFORENT Rechenzentrum Colocation
+
++++ thie7Nohng
+probe = FPing4
+menu = Switch 1
+host = 212.27.153.254
+
 ++ Web
 menu = Web
 title = Web
