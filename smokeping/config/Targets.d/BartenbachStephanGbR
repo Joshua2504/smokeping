@@ -10,8 +10,8 @@ slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
 
 +++ c3-sw01
 probe = FPing4
-menu = C3 - SW01 (SG500-28)
-title = Rack C3 - Switch 01 (Cisco SG500-28)
+menu = C3 - SW01 (SG500-28) (212.27.153.254)
+title = Rack C3 - Switch 01 (Cisco SG500-28) (212.27.153.254)
 host = 212.27.153.254
 
 ++ MyLoc
