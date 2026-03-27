@@ -16,17 +16,11 @@ host = gw.bungeecloud.org
 +++ shopbungeecloudorg
 host = shop.bungeecloud.org
 
-+++ vmbungeecloudorg
-host = vm.bungeecloud.org
-
 +++ pleskbungeecloudorg
 host = plesk.bungeecloud.org
 
 +++ web02bungeecloudorg
 host = web02.bungeecloud.org
-
-+++ pro02bungeecloudorg
-host = prox02.bungeecloud.org:8006
 
 +++ webmailbungeecloudorg
 host = webmail.bungeecloud.org
