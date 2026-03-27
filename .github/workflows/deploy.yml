@@ -40,3 +40,27 @@ jobs:
           script: |
             cd ${{ vars.SSH_PATH }}
             docker compose up -d
+
+      - name: Wait for master to be ready
+        run: |
+          until [ "$(curl -s -o /dev/null -w '%{http_code}' https://smokeping.treudler.net/smokeping/smokeping.cgi)" = "200" ]; do
+            sleep 1
+          done
+
+      - name: Restart Slave - BartenbachStephanGbR-MyLoc
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ vars.SLAVE_SSH_HOST_BARTENBACH }}
+          username: ${{ vars.SLAVE_SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            cd /root/smokeping-slave && docker compose restart
+
+      - name: Restart Slave - Oracle-Frankfurt
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ vars.SLAVE_SSH_HOST_ORACLE }}
+          username: ${{ vars.SLAVE_SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            cd /root/smokeping-slave && docker compose restart
