@@ -1,6 +1,7 @@
 + Hetzner
 menu = Hetzner Online GmbH
 title = Hetzner Online GmbH
+slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
 probe = FPing120
 
 ++ Aggregated
