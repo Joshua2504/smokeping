@@ -115,7 +115,7 @@ title = 80.243.196.47
 menu = Network Infrastructure
 title = Network Infrastructure
 probe = FPing4
-slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt
+slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
 host = /inforent/network/asr1kxlt1 /inforent/network/asr1kxlt2 /inforent/network/c6509-te2-2-3 /inforent/network/decix-fra1 /inforent/network/fgw111
 
 +++ asr1kxlt1
