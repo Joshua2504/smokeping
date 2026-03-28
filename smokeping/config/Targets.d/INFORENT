@@ -116,7 +116,7 @@ menu = Network Infrastructure
 title = Network Infrastructure
 probe = FPing4
 slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
-host = /inforent/network/asr1kxlt1 /inforent/network/asr1kxlt2 /inforent/network/c6509-te2-2-3 /inforent/network/decix-fra1 /inforent/network/fgw111
+host = /inforent/network/asr1kxlt1 /inforent/network/asr1kxlt2 /inforent/network/asr1kxdecix-bdi4090 /inforent/network/c6509-te2-2-3 /inforent/network/decix-fra1 /inforent/network/fgw111
 
 +++ asr1kxlt1
 menu = ASR1K Router (asr1kxlt1.t020.inforent.net)
@@ -127,6 +127,11 @@ host = asr1kxlt1.t020.inforent.net
 menu = ASR1K Router (asr1kxlt2.t020.inforent.net)
 title = Cisco ASR1000 Router (asr1kxlt2.t020.inforent.net)
 host = asr1kxlt2.t020.inforent.net
+
++++ asr1kxdecix-bdi4090
+menu = ASR1K DE-CIX Router (asr1kxdecix-bdi4090.inforent.net)
+title = Cisco ASR1000 DE-CIX Router (asr1kxdecix-bdi4090.inforent.net)
+host = asr1kxdecix-bdi4090.inforent.net
 
 +++ c6509-te2-2-3
 menu = C6509 Switch (c6509.te2-2-3.inforent.net)
