@@ -1,3 +1,4 @@
 smokeping/data/*
 tmp/*
 smokeping_secrets
+logs/
