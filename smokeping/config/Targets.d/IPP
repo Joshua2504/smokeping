@@ -19,3 +19,20 @@ host = blog.ip-projects.de
 
 +++ colosonsult
 host = colo-consult.de
+
+++ network
+menu = Network Infrastructure
+title = Network Infrastructure
+probe = FPing4
+slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt Knight-BSS
+host = /IPP/network/fra11-cc1 /IPP/network/fra1-cr2
+
++++ fra11-cc1
+menu = FRA11 CC1 (fra11.cc1.as48314.net)
+title = FRA11 CC1 (fra11.cc1.as48314.net)
+host = 45.91.100.79
+
++++ fra1-cr2
+menu = FRA1 Core Router 2 (fra1.cr2.as48314.net)
+title = FRA1 Core Router 2 (fra1.cr2.as48314.net)
+host = 194.45.196.18
