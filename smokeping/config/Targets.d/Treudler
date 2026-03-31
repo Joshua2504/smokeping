@@ -1,0 +1,20 @@
++ treudler
+menu = Treudler
+title = Treudler
+
+++ servers
+menu = Servers
+title = Servers
+probe = FPing10
+slaves = BartenbachStephanGbR-MyLoc Oracle-Frankfurt
+host = /treudler/servers/krakatau /treudler/servers/ns521972
+
++++ krakatau
+menu = Krakatau
+title = Krakatau
+host = krakatau.treudler.net
+
++++ ns521972
+menu = pbs1 (ns521972 OVH BHS4)
+title = pbs1 (ns521972 OVH BHS4)
+host = ns521972.ip-158-69-124.net
