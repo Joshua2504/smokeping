@@ -1,0 +1,15 @@
++ Lidecke
+menu = Lidecke
+title = Lidecke
+
+++ lidecke-de-curl300
+menu = lidecke.de
+title = lidecke.de
+probe = Curl300
+host = https://lidecke.de
+
+++ franz-lidecke-de-curl300
+menu = franz-lidecke.de
+title = franz-lidecke.de
+probe = Curl300
+host = https://franz-lidecke.de
