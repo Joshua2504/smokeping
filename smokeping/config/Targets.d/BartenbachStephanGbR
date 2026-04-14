@@ -1,7 +1,7 @@
 + BartenbachStephanGbR
 menu = Bartenbach & Stephan GbR
 title = Bartenbach & Stephan GbR trading as Velohost
-host = /BartenbachStephanGbR/INFORENT/c3-sw01 /BartenbachStephanGbR/MyLoc/server1 /BartenbachStephanGbR/MyLoc/server2 /BartenbachStephanGbR/MyLoc/server3 /BartenbachStephanGbR/MyLoc/pbs
+host = /BartenbachStephanGbR/INFORENT/c3-sw01 /BartenbachStephanGbR/INFORENT/c3-pve01 /BartenbachStephanGbR/MyLoc/server1 /BartenbachStephanGbR/MyLoc/server2 /BartenbachStephanGbR/MyLoc/server3 /BartenbachStephanGbR/MyLoc/pbs
 
 ++ INFORENT
 menu = INFORENT Colocation
@@ -13,6 +13,12 @@ probe = FPing4
 menu = C3 - SW01 (SG500-28) (212.27.153.254)
 title = Rack C3 - Switch 01 (Cisco SG500-28) (212.27.153.254)
 host = 212.27.153.254
+
++++ c3-pve01
+probe = FPing4
+menu = C3 - PVE01 (212.27.153.21)
+title = Rack C3 - Proxmox PVE01 (Dell PowerEdge) (212.27.153.21)
+host = 212.27.153.21
 
 ++ MyLoc
 menu = MyLoc Nodes
