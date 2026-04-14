@@ -6,6 +6,14 @@ References:
 - https://hub.docker.com/r/linuxserver/smokeping
 - https://oss.oetiker.ch/smokeping/doc
 
+## Startup Timestamp
+
+The container writes a Unix timestamp to `/ts` on every start. Slaves use this to detect master restarts and trigger their own restart.
+
+```
+curl https://smokeping.treudler.net/ts
+```
+
 ## Troubleshooting
 
 **Case**
