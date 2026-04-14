@@ -11,6 +11,7 @@ services:
       - ./smokeping/config:/config
       - ./smokeping/data:/data
       - ./logs/apache2:/var/log/apache2
+      - ./smokeping/custom-cont-init.d/write-last-deployed.sh:/custom-cont-init.d/write-last-deployed.sh:ro
       - ./smokeping/basepage.html:/etc/smokeping/basepage.html:ro
       - ./smokeping/smokeping-screen.css:/usr/share/webapps/smokeping/css/smokeping-screen.css:ro
       - ./smokeping/smokeping-print.css:/usr/share/webapps/smokeping/css/smokeping-print.css:ro
