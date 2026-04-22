@@ -1,0 +1,17 @@
++ Traewelling
+menu = Traewelling
+title = Traewelling
+probe = FPing4
+slaves = Joshua-MacBookPro
+
+++ GoogleDNS1
+host = 8.8.8.8
+
+++ GoogleDNS2
+host = 8.8.4.4
+
+++ CloudflareDNS1
+host = 1.1.1.1
+
+++ CloudflareDNS2
+host = 1.0.0.1
