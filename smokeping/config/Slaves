@@ -5,6 +5,10 @@ secrets=/config/smokeping_secrets
 display_name=Joshua MacBook
 color=008000
 
++Joshua-MacBookPro
+display_name=Joshua MacBook Pro
+color=008000
+
 +BartenbachStephanGbR-MyLoc
 display_name=Düsseldorf (Velohost MyLoc)
 color=ff0000
