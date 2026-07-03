@@ -1,0 +1,23 @@
++ HubertBurdaMedia
+menu = Hubert Burda Media
+title = Hubert Burda Media
+
+++ climaclic
+menu = ClimaClic
+title = ClimaClic
+
++++ climaclicde
+menu = climaclic.de
+title = climaclic.de
+probe = Curl10
+host = https://climaclic.de/de
+
+++ server
+menu = server
+title = server
+
++++ wh2
+menu = burda-wh2
+title = burda-wh2
+probe = FPing10
+host = 212.27.129.231
